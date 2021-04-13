@@ -1,3 +1,5 @@
+![](eCHO-horiz.png)
+
 # eCHO - eBPF & Cilium Office Hours
 
 With a little bit of imagination, eCHO stands for "eBPF & Cilium Office Hours". Inspired by [TGIK](https://github.com/vmware-tanzu/tgik) this is a new livestream where we'll discuss all things related to the Cilium project and the broader world of eBPF. 
