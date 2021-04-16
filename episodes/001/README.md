@@ -17,8 +17,10 @@ Find show notes & raise topic ideas in the [eCHO repo](https://github.com/isoval
 
 ## Introduction to Cilium
 
-* [Cilium site](cilium.io)
-* [eBPF & Cilium Slack](cilium.herokuapp.com)
+* [Cilium site](https://cilium.io)
+* [List of eBPF-based projects](https://ebpf.io/projects)
+* [Kubernetes versions supported by Cilium](https://docs.cilium.io/en/latest/concepts/kubernetes/requirements/#kubernetes-version)
+* [eBPF & Cilium Slack](https://cilium.herokuapp.com)
 
 
 
