@@ -8,7 +8,7 @@ With a little bit of imagination, eCHO stands for "eBPF & Cilium Office Hours". 
 
 ## Upcoming episodes
 
-- Episode #2: topic TBD
+- Episode #2: introduction to Hubble with Glib Smaga
   - 11am PT, 2pm ET, 7pm UK, 8pm Central Europe - Friday 23rd April 2021 
   - [Convert to your timezone / get calendar link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=eBPF+%26+Cilium+Office+Hours&iso=20210423T19&p1=136&am=30)
   - [Link to YouTube](https://youtu.be/hD2iJUyIXQw)
