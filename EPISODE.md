@@ -24,6 +24,7 @@
 * [ ] Send invite to guest with a Zoom meeting link (start 15 mins early)
 * [ ] Invite a chat moderator
 * [ ] Share event on social media
+* [ ] Post link to #general channel in Slack
 
 ## Episode ready
 
