@@ -2,7 +2,7 @@
 
 [YouTube](https://youtu.be/hD2iJUyIXQw) 23 April 2021
 
-Find show notes & raise topic ideas in the [eCHO repo](https://github.com/isovalent/eCHO)
+This week Liz is joined by Hubble maintainer Glib Smaga ([GitHub](https://github.com/glibsm), [Twitter](https://twitter.com/glibsm)) for an introduction showing how to use Hubble CLI and Hubble UI to see the traffic flowing in your Kubernetes cluster. 
 
 ## Headlines
 
@@ -16,6 +16,8 @@ Find show notes & raise topic ideas in the [eCHO repo](https://github.com/isoval
 ## Introduction to Hubble
 
 * [Hubble on GitHub](https://github.com/cilium/hubble)
+* [Hubble blog post](https://cilium.io/blog/2019/11/19/announcing-hubble)
+  * Section on [latency](https://cilium.io/blog/2019/11/19/announcing-hubble#http-requestresponse-rate--latency)
 * [eBPF & Cilium Slack](https://cilium.herokuapp.com)
 
 
