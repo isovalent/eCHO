@@ -1,4 +1,4 @@
-![](eCHO-horiz.png)
+![](images/eCHO-horiz.png)
 
 # eCHO - eBPF & Cilium Office Hours
 
