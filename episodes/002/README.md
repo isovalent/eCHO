@@ -18,6 +18,8 @@ This week Liz is joined by Hubble maintainer Glib Smaga ([GitHub](https://github
 * [Hubble on GitHub](https://github.com/cilium/hubble)
 * [Hubble blog post](https://cilium.io/blog/2019/11/19/announcing-hubble)
   * Section on [latency](https://cilium.io/blog/2019/11/19/announcing-hubble#http-requestresponse-rate--latency)
+* [Getting Started: Networking & security observability with Hubble](https://docs.cilium.io/en/v1.9/gettingstarted/hubble/)
+* [Cilium & Hubble metrics](https://docs.cilium.io/en/v1.9/operations/metrics/)
 * [eBPF & Cilium Slack](https://cilium.herokuapp.com)
 
 
