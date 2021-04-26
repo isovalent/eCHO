@@ -8,15 +8,15 @@ With a little bit of imagination, eCHO stands for "eBPF & Cilium Office Hours". 
 
 ## Upcoming episodes
 
-- Episode #2: introduction to Hubble with Glib Smaga
-  - 11am PT, 2pm ET, 7pm UK, 8pm Central Europe - Friday 23rd April 2021 
-  - [Convert to your timezone / get calendar link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=eBPF+%26+Cilium+Office+Hours&iso=20210423T19&p1=136&am=30)
-  - [Link to YouTube](https://youtu.be/hD2iJUyIXQw)
-
-- Episode #3: topic TBD
+- Episode #3: Wireguard with Martynas Pumpitas
   - 6am PT, 9am ET, 2pm UK, 3pm Central Europe - Friday 30th April 2021
   - [Convert to your timezone / get calendar link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=eBPF+%26+Cilium+Office+Hours&iso=20210430T14&p1=136&am=30)
   - [Link to YouTube](https://youtu.be/-awkPi3D60E)
+
+- Episode #4: KubeCon eBPF round-up
+  - 11am PT, 2pm ET, 7pm UK, 8pm Central Europe - Friday 7th May 2021 
+  - [Convert to your timezone / get calendar link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=eBPF+%26+Cilium+Office+Hours&iso=20210507T19&p1=136&am=30)
+  - [Link to YouTube](https://youtu.be/d2I2kLd7AwU)
 
 We'd love your questions during the show! 
 
@@ -26,6 +26,8 @@ Please [open an issue](https://github.com/cilium/eCHO/issues/new) if you have an
 
 ## Previous episodes
 
-- Episode #1: [Intro to Cilium](https://youtu.be/80OYrzS1dCA)
+- Episode #2: [Intro to Hubble](https://youtu.be/hD2iJUyIXQw) with [Glib Smaga](https://twitter.com/glibsm)
+  - [Show notes](/episodes/002)
+- Episode #1: [Intro to Cilium](https://youtu.be/80OYrzS1dCA) with [Thomas Graf](https://twitter.com/tgraf__)
   - [Show notes](/episodes/001)
 
