@@ -8,7 +8,7 @@ With a little bit of imagination, eCHO stands for "eBPF & Cilium Office Hours". 
 
 ## Upcoming episodes
 
-- Episode #3: Wireguard with Martynas Pumpitas
+- Episode #3: Wireguard with [Martynas Pumputis](https://twitter.com/martyns)
   - 6am PT, 9am ET, 2pm UK, 3pm Central Europe - Friday 30th April 2021
   - [Convert to your timezone / get calendar link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=eBPF+%26+Cilium+Office+Hours&iso=20210430T14&p1=136&am=30)
   - [Link to YouTube](https://youtu.be/-awkPi3D60E)
