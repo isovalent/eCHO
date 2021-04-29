@@ -6,7 +6,7 @@ This week Liz is joined by Hubble maintainer Glib Smaga ([GitHub](https://github
 
 ## Headlines
 
-* [Cilium certified for OpenShift by Red Hat](https://access.redhat.com/articles/5436171)
+* [Cilium certified for OpenShift by Red Hat](https://cilium.io/blog/2021/04/19/openshift-certification)
 * [Falco project have applied for graduation status](https://github.com/cncf/toc/pull/641) 
 
 ## Links
