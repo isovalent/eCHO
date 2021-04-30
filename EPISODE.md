@@ -17,6 +17,11 @@
 
 **Graphics and streaming setup**
 * [ ] Prepare any graphics e.g. a "lower third" for any guests
+  * Use the [lower third template in Keynote](https://github.com/isovalent/eCHO/blob/main/streaming-assets/lower%20third%20example.key) 
+  * Replace the lower third graphic, with the following animations:
+    * Build in: Dissolve duration 1s
+    * Build on: Dissolve duration 1s, start 5s after previous build
+  * Export as a movie with transparency so it can be used as an overlay. See the export settings screenshot below
 * [ ] Set up scenes in Streamlabs OBS
 * [ ] Test sound & screen sharing with guest
 
@@ -34,3 +39,7 @@
 
 * [ ] Update & merge the episode notes as a PR
 * [ ] Add link to the [README](README.md) and make sure next two episodes are listed
+
+# Keynote export settings for lower third overlay
+
+![](/images/overlay-keynote-export-settings.png)
