@@ -24,5 +24,9 @@ In this week's episode Martynas Pumputis ([GitHub](https://github.com/brb), [Twi
   * [The art of hiding yourself](https://sched.co/iE4t)
   * [Top 5 Concerns Every InfoSec Team Has And How To Overcome Them With eBPF](https://sched.co/iRmk) 
 
-## Wireguard 
+## Wireguard
 
+* [Technical paper](https://www.wireguard.com/papers/wireguard.pdf)
+* [Linus Torvalds approval](https://lists.openwall.net/netdev/2018/08/02/124)
+* [Cilium Wireguard guide](https://docs.cilium.io/en/latest/gettingstarted/encryption-wireguard/)
+* [Wireguard vs IPSec performance benchmarks](https://docs.cilium.io/en/latest/operations/performance/benchmark/#encryption-wireguard-ipsec)
