@@ -27,6 +27,7 @@ Please [open an issue](https://github.com/cilium/eCHO/issues/new) if you have an
 ## Previous episodes
 
 - Episode #4: [KubeCon & COSI with Kris Nóva](https://youtu.be/d2I2kLd7AwU)
+  - [Show notes](/episodes/004)
 - Episode #3: [Wireguard](https://youtu.be/-awkPi3D60E) with [Martynas Pumputis](https://twitter.com/martyns)
   - [Show notes](/episodes/003)
 - Episode #2: [Intro to Hubble](https://youtu.be/hD2iJUyIXQw) with [Glib Smaga](https://twitter.com/glibsm)
