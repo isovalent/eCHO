@@ -18,3 +18,6 @@ In this episode Thomas joins Liz to talk about the latest network plugin perform
 ## Network performance 
 
 * [CNI Benchmark: Understanding Cilium network performance](https://cilium.io/blog/2021/05/11/cni-benchmark)
+* [Cilium docs on Performance & Scalability](https://docs.cilium.io/en/latest/operations/performance/)
+* [Introduction to XDP](https://www.iovisor.org/technology/xdp)
+* [eCHO episode on Wireguard](https://youtu.be/-awkPi3D60E)
