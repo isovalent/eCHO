@@ -12,6 +12,8 @@ In this episode Thomas joins Liz to talk about the latest network plugin perform
 ## Links
 
 [eBPF for Advanced Linux Infrastructure Monitoring](https://www.linuxjournal.com/content/ebpf-advanced-linux-infrastructure-monitoring)
+[Calling kernel functions from BPF](https://lwn.net/SubscriberLink/856005/19e0eb03cb1fd1cc/)
+
 [KubeCon CFP](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/program/cfp/)
 
 ## Network performance 
