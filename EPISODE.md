@@ -3,12 +3,14 @@
 ## Preparation
 
 **YouTube link and description**
+
 * [ ] Set up the episode in YouTube Live so that we have a URL
 * [ ] Add URL & topic description to event in eCHO calendar 
 * [ ] Add URL & topic description to event listing in the [README](README.md) 
 * [ ] Add the topic and guests to the YouTube live listing
 
 **Episode notes**
+
 * [ ] Draft the episode notes under a GitHub branch
 * [ ] Prepare headlines (internal-only headline tracking spreadsheet is [here](https://docs.google.com/spreadsheets/d/1Aq6sfOA06KbXNymt0UbBHYnvf-YWlR8e-oXjATzAigg/edit?usp=sharing))
 * [ ] Add links to blogs or other resources
@@ -16,6 +18,7 @@
 * [ ] Add link to YouTube (the same URL becomes the replay link for future viewers)
 
 **Graphics and streaming setup**
+
 * [ ] Prepare any graphics e.g. a "lower third" for any guests
   * Use the [lower third template in Keynote](https://github.com/isovalent/eCHO/blob/main/streaming-assets/lower%20third%20example.key) 
   * Replace the lower third graphic, with the following animations:
@@ -29,7 +32,7 @@
 * [ ] Send invite to guest with a Zoom meeting link (start 15 mins early)
 * [ ] Invite a chat moderator
 * [ ] Share event on social media
-* [ ] Post link to #general channel in Slack
+* [ ] Post & pin link to #general channel in eBPF & Cilium Slack
 
 ## Episode ready
 
@@ -39,6 +42,7 @@
 
 * [ ] Update & merge the episode notes as a PR
 * [ ] Add link to the [README](README.md) and make sure next two episodes are listed
+* [ ] Add episode to [YouTube playlist](https://www.youtube.com/playlist?list=PLDg_GiBbAx-mY3VFLPbLHcxo6wUjejAOC)
 
 # Keynote export settings for lower third overlay
 
