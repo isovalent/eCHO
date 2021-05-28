@@ -8,15 +8,16 @@ With a little bit of imagination, eCHO stands for "eBPF & Cilium Office Hours". 
 
 ## Upcoming episodes
 
-- Episode #7: DNS with [Laurent Bernaille](https://twitter.com/lbernail)
-  - 6am PT, 9am ET, 2pm UK, 3pm Central Europe - Friday 28th May 2021
-  - [Convert to your timezone / get calendar link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=eBPF+%26+Cilium+Office+Hours&iso=20210528T14&p1=136&am=30)
-  - [Link to YouTube](https://youtu.be/2lGag_j4dIw)
-
-- Episode #8: TBD
+- Episode #8: [Thomas Graf](https://twitter.com/tgraf__) and [Duffie Cooley](https://twitter.com/mauilion)
   - 11am PT, 2pm ET, 7pm UK, 8pm Central Europe - Friday 21st May 2021 
   - [Convert to your timezone / get calendar link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=eBPF+%26+Cilium+Office+Hours&iso=20210604T19&p1=136&am=30)
   - [Link to YouTube](https://youtu.be/ndjmaM1i0WQ)
+
+- Episode #9: TBD
+  - 6am PT, 9am ET, 2pm UK, 3pm Central Europe - Friday 28th May 2021
+  - [Convert to your timezone / get calendar link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=eBPF+%26+Cilium+Office+Hours&iso=20210611T14&p1=136&am=30)
+  - [Link to YouTube](https://youtu.be/OIyPm6K4ooY)
+
 
 We'd love your questions during the show! 
 ## Suggest a topic
@@ -25,6 +26,8 @@ Please [open an issue](https://github.com/cilium/eCHO/issues/new) if you have an
 
 ## Previous episodes
 
+- Episode #7: [DNS](https://youtu.be/2lGag_j4dIw) with [Laurent Bernaille](https://twitter.com/lbernail)
+  - [Show notes](/episodes/007)
 - Episode #6: [Cilium 1.10](https://youtu.be/y5xcvr_fgxc) with [Joe Stringer](https://twitter.com/joestringernz)
   - [Show notes](/episodes/006)
 - Episode #5: [Network performance](https://youtu.be/2lGag_j4dIw) with [Thomas Graf](https://twitter.com/tgraf__)
