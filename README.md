@@ -9,12 +9,12 @@ With a little bit of imagination, eCHO stands for "eBPF & Cilium Office Hours". 
 ## Upcoming episodes
 
 - Episode #8: [Thomas Graf](https://twitter.com/tgraf__) and [Duffie Cooley](https://twitter.com/mauilion)
-  - 11am PT, 2pm ET, 7pm UK, 8pm Central Europe - Friday 21st May 2021 
+  - 11am PT, 2pm ET, 7pm UK, 8pm Central Europe - Friday 4th June 2021 
   - [Convert to your timezone / get calendar link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=eBPF+%26+Cilium+Office+Hours&iso=20210604T19&p1=136&am=30)
   - [Link to YouTube](https://youtu.be/ndjmaM1i0WQ)
 
-- Episode #9: TBD
-  - 6am PT, 9am ET, 2pm UK, 3pm Central Europe - Friday 28th May 2021
+- Episode #9: XDP with Daniel Borkmann
+  - 6am PT, 9am ET, 2pm UK, 3pm Central Europe - Friday 11th June 2021
   - [Convert to your timezone / get calendar link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=eBPF+%26+Cilium+Office+Hours&iso=20210611T14&p1=136&am=30)
   - [Link to YouTube](https://youtu.be/OIyPm6K4ooY)
 
