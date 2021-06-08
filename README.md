@@ -8,24 +8,26 @@ With a little bit of imagination, eCHO stands for "eBPF & Cilium Office Hours". 
 
 ## Upcoming episodes
 
-- Episode #8: [Thomas Graf](https://twitter.com/tgraf__) and [Duffie Cooley](https://twitter.com/mauilion)
-  - 11am PT, 2pm ET, 7pm UK, 8pm Central Europe - Friday 4th June 2021 
-  - [Convert to your timezone / get calendar link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=eBPF+%26+Cilium+Office+Hours&iso=20210604T19&p1=136&am=30)
-  - [Link to YouTube](https://youtu.be/ndjmaM1i0WQ)
-
-- Episode #9: XDP with Daniel Borkmann
+- Episode #9: XDP and Load Balancing with [Daniel Borkmann](https://github.com/borkmann)
   - 6am PT, 9am ET, 2pm UK, 3pm Central Europe - Friday 11th June 2021
   - [Convert to your timezone / get calendar link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=eBPF+%26+Cilium+Office+Hours&iso=20210611T14&p1=136&am=30)
   - [Link to YouTube](https://youtu.be/OIyPm6K4ooY)
 
+- Episode #10: eBPF for Windows with [Dave Thaler](https://github.com/dthaler)
+  - 11am PT, 2pm ET, 7pm UK, 8pm Central Europe - Friday 18th June 2021 
+  - [Convert to your timezone / get calendar link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=eBPF+%26+Cilium+Office+Hours&iso=20210618T19&p1=136&am=30)
+  - [Link to YouTube](https://youtu.be/LrrV-eo6fug)
 
 We'd love your questions during the show! 
+
 ## Suggest a topic
 
 Please [open an issue](https://github.com/cilium/eCHO/issues/new) if you have an idea for a topic we should cover or a guest we should invite.
 
 ## Previous episodes
 
+- Episode #8: [Cilium CLI](https://youtu.be/ndjmaM1i0WQ) with [Duffie Cooley](https://twitter.com/mauilion)
+  - [Show notes](/episodes/008)
 - Episode #7: [DNS](https://youtu.be/2lGag_j4dIw) with [Laurent Bernaille](https://twitter.com/lbernail)
   - [Show notes](/episodes/007)
 - Episode #6: [Cilium 1.10](https://youtu.be/y5xcvr_fgxc) with [Joe Stringer](https://twitter.com/joestringernz)
