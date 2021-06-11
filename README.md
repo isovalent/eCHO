@@ -10,15 +10,15 @@ Previous episodes are all [here on YouTube](https://www.youtube.com/playlist?lis
 
 [**View Episode Calendar**](https://calendar.google.com/calendar/embed?src=c_r0u072069ks1htjgkn8j4a9dj0%40group.calendar.google.com&ctz=Europe%2FLondon) | [**Add Google Calendar**](https://calendar.google.com/calendar/u/0?cid=Y19yMHUwNzIwNjlrczFodGpna244ajRhOWRqMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 
-- Episode #9: XDP and Load Balancing with [Daniel Borkmann](https://github.com/borkmann)
-  - 6am PT, 9am ET, 2pm UK, 3pm Central Europe - Friday 11th June 2021
-  - [Convert to your timezone / get calendar link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=eBPF+%26+Cilium+Office+Hours&iso=20210611T14&p1=136&am=30)
-  - [Link to YouTube](https://youtu.be/OIyPm6K4ooY)
-
 - Episode #10: eBPF for Windows with [Dave Thaler](https://github.com/dthaler)
   - 11am PT, 2pm ET, 7pm UK, 8pm Central Europe - Friday 18th June 2021 
   - [Convert to your timezone / get calendar link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=eBPF+%26+Cilium+Office+Hours&iso=20210618T19&p1=136&am=30)
   - [Link to YouTube](https://youtu.be/LrrV-eo6fug)
+
+- Episode #11: TBD
+  - 6am PT, 9am ET, 2pm UK, 3pm Central Europe - Friday 25th June 2021
+  - [Convert to your timezone / get calendar link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=eBPF+%26+Cilium+Office+Hours&iso=20210625T14&p1=136&am=30)
+  - [Link to YouTube](https://youtu.be/1EOLh3zzWP4)
 
 We'd love your questions during the show! 
 
@@ -28,6 +28,8 @@ Please [open an issue](https://github.com/cilium/eCHO/issues/new) if you have an
 
 ## Previous episodes
 
+- Episode #9: [XDP and load balancing with Daniel Borkmann](https://youtu.be/OIyPm6K4ooY) with [Daniel Borkmann](https://github.com/borkmann)
+  - [Show notes](/episodes/009)
 - Episode #8: [Cilium CLI](https://youtu.be/ndjmaM1i0WQ) with [Duffie Cooley](https://twitter.com/mauilion)
   - [Show notes](/episodes/008)
 - Episode #7: [DNS](https://youtu.be/2lGag_j4dIw) with [Laurent Bernaille](https://twitter.com/lbernail)
