@@ -28,7 +28,7 @@ Please [open an issue](https://github.com/cilium/eCHO/issues/new) if you have an
 
 ## Previous episodes
 
-- Episode #9: [XDP and load balancing with Daniel Borkmann](https://youtu.be/OIyPm6K4ooY) with [Daniel Borkmann](https://github.com/borkmann)
+- Episode #9: [XDP and load balancing](https://youtu.be/OIyPm6K4ooY) with [Daniel Borkmann](https://github.com/borkmann)
   - [Show notes](/episodes/009)
 - Episode #8: [Cilium CLI](https://youtu.be/ndjmaM1i0WQ) with [Duffie Cooley](https://twitter.com/mauilion)
   - [Show notes](/episodes/008)
