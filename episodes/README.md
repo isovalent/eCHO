@@ -1,5 +1,6 @@
 # Generating new episode notes
 
+* Clone this repo and move into this (episodes) directory
 * Download the episode planning spreadsheet and call it ./planning.csv
 * `go run main.go`. You'll be prompted for 
   * the line number in the spreadsheet (this is one more than the episode number)
