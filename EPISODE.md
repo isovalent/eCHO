@@ -12,6 +12,7 @@
 **Episode notes**
 
 * [ ] Draft the episode notes under a GitHub branch
+  * There's a [tool](./episodes/README.md) to generate episode notes from the episode planning spreadsheet
 * [ ] Prepare headlines (internal-only headline tracking spreadsheet is [here](https://docs.google.com/spreadsheets/d/1Aq6sfOA06KbXNymt0UbBHYnvf-YWlR8e-oXjATzAigg/edit?usp=sharing))
 * [ ] Add links to blogs or other resources
 * [ ] Add links for the main topic
