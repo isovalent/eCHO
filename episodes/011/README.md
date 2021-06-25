@@ -15,11 +15,11 @@ with [Quentin Monnet](https://twitter.com/qeole), hosted by [Liz Rice](https://t
 * [Cloud Native eBPF Day](https://events.linuxfoundation.org/cloud-native-ebpf-day-north-america/)
   * October 11
   * CFP open till July 25
+* [Spectre revisits BPF](https://lwn.net/SubscriberLink/860597/08de660a3781a0d2/)
 
-## Links
+## YouTube markers
 
-* Larry Peterson article on [Service Mesh as SDN at L7](https://www.theregister.com/2021/06/25/service_mesh_sdn_layer_7/)
-* Joe Stringer spoke at [Dallas Kubernetes Meetup](https://community.cncf.io/events/details/cncf-dallas-kubernetes-meetup-presents-cilium-ebpf-cloud-native-networking-security-observability/)
+00:00 Welcome to eCHO
 
 
 ## Exploring bpftool with Quentin Monnet
