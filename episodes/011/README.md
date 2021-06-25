@@ -24,6 +24,7 @@ with [Quentin Monnet](https://github.com/qeole), hosted by [Liz Rice](https://tw
 
 ## Exploring bpftool with Quentin Monnet
 
+* [Today's slides and demo](https://github.com/qmonnet/echo-bpftool)
 * [Quentin's Twitter thread on bpftool](https://twitter.com/qeole/status/1101450782841466880)
 * [FOSDEM talk on Debugging BPF](https://qmo.fr/docs/talk_20200202_debugging_ebpf.pdf)
 
