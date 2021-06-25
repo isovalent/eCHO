@@ -3,7 +3,7 @@
 [YouTube](https://youtu.be/1EOLh3zzWP4)
 25 June 2021
 
-with [Quentin Monnet](https://github.com/qeole), hosted by [Liz Rice](https://twitter.com/lizrice)
+with [Quentin Monnet](https://twitter.com/qeole), hosted by [Liz Rice](https://twitter.com/lizrice)
 
 ## Headlines 
 
