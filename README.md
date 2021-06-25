@@ -13,7 +13,7 @@ Previous episodes are all [here on YouTube](https://www.youtube.com/playlist?lis
 - Episode #12: TBD
   - 11am PT, 2pm ET, 7pm UK, 8pm Central Europe - Friday 2nd July 2021 
   - [Convert to your timezone / get calendar link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=eBPF+%26+Cilium+Office+Hours&iso=20210702T19&p1=136&am=30)
-  - [Link to YouTube TBD]()
+  - [Link to YouTube TBD](https://youtu.be/J-fyQ3H4hLw)
 
 - Episode #13: TBD
   - 6am PT, 9am ET, 2pm UK, 3pm Central Europe - Friday 9th July 2021
@@ -28,7 +28,7 @@ Please [open an issue](https://github.com/cilium/eCHO/issues/new) if you have an
 
 ## Previous episodes
 
-- Episode #11: [Exploring bpftool with Quentin Monnet](https://youtu.be/1EOLh3zzWP4) with [Quentin Monnet](https://github.com/qeole)
+- Episode #11: [Exploring bpftool with Quentin Monnet](https://youtu.be/1EOLh3zzWP4) with [Quentin Monnet](https://twitter.com/qeole)
   - [Show notes](/episodes/011)
 - Episode #10: [eBPF for Windows with Dave Thaler](https://youtu.be/LrrV-eo6fug) with [Dave Thaler](https://github.com/dthaler)
   - [Show notes](/episodes/010)
