@@ -7,7 +7,7 @@ with [Quentin Monnet](https://twitter.com/qeole), hosted by [Liz Rice](https://t
 
 ## Headlines 
 
-* eCHO survey results
+* [eCHO survey results](./eCHOsurvey.pdf)
 * New! [Cilium & eBPF swag shop](https://shop.spreadshirt.com/cilium/)
 * [eBPF Summit](https://ebpf.io/summit-2021)
   * August 18-19
@@ -16,11 +16,6 @@ with [Quentin Monnet](https://twitter.com/qeole), hosted by [Liz Rice](https://t
   * October 11
   * CFP open till July 25
 * [Spectre revisits BPF](https://lwn.net/SubscriberLink/860597/08de660a3781a0d2/)
-
-## YouTube markers
-
-00:00 Welcome to eCHO
-
 
 ## Exploring bpftool with Quentin Monnet
 
