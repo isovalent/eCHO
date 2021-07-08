@@ -3,7 +3,7 @@
 [YouTube]({{.YouTube}})
 {{friendly .Date}}
 
-with [{{.GuestName}}]({{.GuestURL}}), hosted by [{{.HostName}}]({{.HostURL}})
+{{if .GuestName}}with [{{.GuestName}}]({{.GuestURL}}), {{end}}hosted by [{{.HostName}}]({{.HostURL}})
 
 ## Headlines
 
@@ -24,7 +24,7 @@ with [{{.GuestName}}]({{.GuestURL}}), hosted by [{{.HostName}}]({{.HostURL}})
 
 3. Add this episode to the history
 
-- Episode #{{.Number}}: [{{.Title}}]({{.YouTube}}) with [{{.GuestName}}]({{.GuestURL}})
+- Episode #{{.Number}}: [{{.Title}}]({{.YouTube}}) with {{if .GuestName}}[{{.GuestName}}]({{.GuestURL}}){{else}}[{{.HostName}}]({{.HostURL}}){{end}}
   - [Show notes]({{.ShowNotesURL}})
 
 
