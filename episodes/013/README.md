@@ -15,4 +15,5 @@ hosted by [Liz Rice](https://twitter.com/lizrice)
 
 ## XDP Tutorial
 
-[XDP Tutorial](https://github.com/xdp-project/xdp-tutorial#xdp-hands-on-tutorial)
+* [XDP Tutorial](https://github.com/xdp-project/xdp-tutorial#xdp-hands-on-tutorial)
+* [Issue where BTF data isn't compatible with  `ip`](https://github.com/xdp-project/xdp-tutorial/issues/38)
