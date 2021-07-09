@@ -10,11 +10,6 @@ Previous episodes are all [here on YouTube](https://www.youtube.com/playlist?lis
 
 [**View Episode Calendar**](https://calendar.google.com/calendar/embed?src=c_r0u072069ks1htjgkn8j4a9dj0%40group.calendar.google.com&ctz=Europe%2FLondon) | [**Add Google Calendar**](https://calendar.google.com/calendar/u/0?cid=Y19yMHUwNzIwNjlrczFodGpna244ajRhOWRqMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 
-- Episode #13: XDP hands-on tutorial 
-  - 6am PT, 9am ET, 2pm UK, 3pm Central Europe - Friday 9th July 2021
-  - [Convert to your timezone / get calendar link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=eBPF+%26+Cilium+Office+Hours&iso=20210709T14&p1=136&am=30)
-  - [Link to YouTube](https://youtu.be/YUI78vC4qSQ)
-
 - Episode #14: TBD
   - 11am PT, 2pm ET, 7pm UK, 8pm Central Europe - 16 July 2021
   - [Convert to your timezone / get calendar link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=eBPF+%26+Cilium+Office+Hours&iso=20210716T19&p1=136&am=30)
@@ -33,6 +28,8 @@ Please [open an issue](https://github.com/cilium/eCHO/issues/new) if you have an
 
 ## Previous episodes
 
+- Episode #13: [XDP Tutorial](https://youtu.be/YUI78vC4qSQ) with [Liz Rice](https://twitter.com/lizrice)
+  - [Show notes](/episodes/013)
 - Episode #12: [kubectl trace](https://youtu.be/J-fyQ3H4hLw) 
   - [Show notes](/episodes/012)
 - Episode #11: [Exploring bpftool with Quentin Monnet](https://youtu.be/1EOLh3zzWP4) with [Quentin Monnet](https://twitter.com/qeole)
