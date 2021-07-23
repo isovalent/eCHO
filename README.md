@@ -37,7 +37,7 @@ Please [open an issue](https://github.com/cilium/eCHO/issues/new) if you have an
   - [Show notes](/episodes/009)
 - Episode #8: [Cilium CLI](https://youtu.be/ndjmaM1i0WQ) with [Duffie Cooley](https://twitter.com/mauilion)
   - [Show notes](/episodes/008)
-- Episode #7: [DNS](https://youtu.be/2lGag_j4dIw) with [Laurent Bernaille](https://twitter.com/lbernail)
+- Episode #7: [DNS](https://youtu.be/mo0RIJZypbQ) with [Laurent Bernaille](https://twitter.com/lbernail)
   - [Show notes](/episodes/007)
 - Episode #6: [Cilium 1.10](https://youtu.be/y5xcvr_fgxc) with [Joe Stringer](https://twitter.com/joestringernz)
   - [Show notes](/episodes/006)
