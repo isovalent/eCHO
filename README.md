@@ -10,9 +10,11 @@ Previous episodes are all [here on YouTube](https://www.youtube.com/playlist?lis
 
 [**View Episode Calendar**](https://calendar.google.com/calendar/embed?src=c_r0u072069ks1htjgkn8j4a9dj0%40group.calendar.google.com&ctz=Europe%2FLondon) | [**Add Google Calendar**](https://calendar.google.com/calendar/u/0?cid=Y19yMHUwNzIwNjlrczFodGpna244ajRhOWRqMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 
-- Episode #16: TBD
-  - 11am PT, 2pm ET, 7pm UK, 8pm Central Europe - 16 July 2021
-  - [Convert to your timezone / get calendar link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=eBPF+%26+Cilium+Office+Hours&iso=20210716T19&p1=136&am=30)
+**We're taking a week off for the summer, so no live episode on 6 August**
+
+- Episode #17: TBD
+  - 11am PT, 2pm ET, 7pm UK, 8pm Central Europe - 13 August 2021
+  - [Convert to your timezone / get calendar link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=eBPF+%26+Cilium+Office+Hours&iso=20210813T19&p1=136&am=30)
   - [Link to YouTube TBD]()  
 
 We'd love your questions during the show! 
