@@ -2,7 +2,7 @@
 
 # eCHO - eBPF & Cilium Office Hours
 
-With a little bit of imagination, eCHO stands for "eBPF & Cilium Office Hours". Inspired by [TGIK](https://github.com/vmware-tanzu/tgik) this is a livestream hosted by [Liz Rice](https://twitter.com/lizrice) where we'll discuss all things related to the Cilium project and the broader world of eBPF. 
+With a little bit of imagination, eCHO stands for "eBPF & Cilium Office Hours". Inspired by [TGIK](https://github.com/vmware-tanzu/tgik) this is a livestream hosted by [Liz Rice](https://twitter.com/lizrice) and [Duffie Cooley](https://twitter.com/mauilion) where we'll discuss all things related to the Cilium project and the broader world of eBPF. 
 
 Previous episodes are all [here on YouTube](https://www.youtube.com/playlist?list=PLDg_GiBbAx-mY3VFLPbLHcxo6wUjejAOC).
 
@@ -10,12 +10,18 @@ Previous episodes are all [here on YouTube](https://www.youtube.com/playlist?lis
 
 [**View Episode Calendar**](https://calendar.google.com/calendar/embed?src=c_r0u072069ks1htjgkn8j4a9dj0%40group.calendar.google.com&ctz=Europe%2FLondon) | [**Add Google Calendar**](https://calendar.google.com/calendar/u/0?cid=Y19yMHUwNzIwNjlrczFodGpna244ajRhOWRqMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 
-**We're taking a week off for the summer, so no live episode on 6 August**
 
-- Episode #17: TBD
+- Episode #18: eBPF Summit CTF
+ - 6am PT, 9am ET, 2pm UK, 3pm Central Europe - 20 August 2021
+ - [Convert to your timezone / get calendar link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=eBPF+%26+Cilium+Office+Hours&iso=20210723T14&p1=136&am=30)
+ - [Link to YouTube ](https://youtu.be/l18YnO2b7mM)
+
+<!--
+- Episode #19: TBD
   - 11am PT, 2pm ET, 7pm UK, 8pm Central Europe - 13 August 2021
   - [Convert to your timezone / get calendar link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=eBPF+%26+Cilium+Office+Hours&iso=20210813T19&p1=136&am=30)
   - [Link to YouTube TBD]()  
+-->
 
 We'd love your questions during the show! 
 
@@ -25,6 +31,10 @@ Please [open an issue](https://github.com/cilium/eCHO/issues/new) if you have an
 
 ## Previous episodes
 
+- Episode #17: [CVE 2021 3490](https://youtu.be/VZ1V2nMvQH4) with [Duffie
+  Cooley](https://twitter.com/mauilion)
+- Episode #16: [kubectl-trace continued](https://youtu.be/cXyYT0Zhors) with
+  [Duffie Cooley](https://twitter.com/mauilion)
 - Episode #15: [Tracee](https://youtu.be/aOgidMoPz9A) with [Itay Shakury](https://twitter.com/itaysk)
   - [Show notes](/episodes/015)
 - Episode #14: [netkat](https://youtu.be/yabzjJMdI08) with [Antonio Ojea](https://twitter.com/itsuugo)
