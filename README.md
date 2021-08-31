@@ -38,7 +38,9 @@ Please [open an issue](https://github.com/cilium/eCHO/issues/new) if you have an
 
 - Episode #18: [eBPF Capture The Flag part #3](https://youtu.be/l18YnO2b7mM)
   with [Tabitha Sable](https://twitter.com/tabbysable), [Liz
-  Rice](https://twitter.com/lizrice) and a team of solvers from [Isovalent](https://isovalent.com)
+  Rice](https://twitter.com/lizrice) and a team of solvers from
+  [Isovalent](https://isovalent.com)
+  - [Show notes](/episodes/018)
 - Episode #17: [CVE 2021 3490](https://youtu.be/VZ1V2nMvQH4) with [Duffie
   Cooley](https://twitter.com/mauilion)
 - Episode #16: [kubectl-trace continued](https://youtu.be/cXyYT0Zhors) with
