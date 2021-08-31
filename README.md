@@ -36,6 +36,8 @@ Please [open an issue](https://github.com/cilium/eCHO/issues/new) if you have an
 
 ## Previous episodes
 
+- Episode #19: [Inspektor Gadget](https://youtu.be/RZ2qNm_vlUc) with [Marga Manterola](https://twitter.com/marga_manterola)
+  - [Show notes](/episodes/019)
 - Episode #18: [eBPF Capture The Flag part #3](https://youtu.be/l18YnO2b7mM)
   with [Tabitha Sable](https://twitter.com/tabbysable), [Liz
   Rice](https://twitter.com/lizrice) and a team of solvers from

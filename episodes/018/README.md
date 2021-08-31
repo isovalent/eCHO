@@ -1,8 +1,8 @@
 # eCHO episode 18 - eBPF Summit Capture The Flag
 
-This week was [eBPF Summit 2021](https://ebpf.io/summit-2021)
+[Find this episode on YouTube](https://youtu.be/l18YnO2b7mM)
 
-Watch on YouTube 
+This week was [eBPF Summit 2021](https://ebpf.io/summit-2021)
 
 * eBPF Summit [videos on YouTube](https://youtube.com/playlist?list=PLDg_GiBbAx-laA5GG_WnbojJ44AV2uvZn)
 * Slides coming soon 
