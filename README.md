@@ -13,14 +13,12 @@ Previous episodes are all [here on YouTube](https://www.youtube.com/playlist?lis
 - Episode #20: TBD
   - 11am PT, 2pm ET, 7pm UK, 8pm Central Europe - 10 September 2021
   - [Convert to your timezone / get calendar link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=eBPF+%26+Cilium+Office+Hours&iso=20210910T19&p1=136&am=30)
-  - [Link to YouTube TBD]()  
+  - Watch on [YouTube](https://youtu.be/t3vCRN9spWo)  
 
-<!-- 
   - Episode #21: TBD
   - 6am PT, 9am ET, 2pm UK, 3pm Central Europe - 17 September 2021
   - [Convert to your timezone / get calendar link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=eBPF+%26+Cilium+Office+Hours&iso=20210917T14&p1=136&am=30)
-  - [Link to YouTube TBD]()
--->
+  - Watch on [YouTube](https://youtu.be/ZPJBErFqBiA)
 
 We'd love your questions during the show! 
 
