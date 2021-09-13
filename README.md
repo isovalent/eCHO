@@ -10,15 +10,16 @@ Previous episodes are all [here on YouTube](https://www.youtube.com/playlist?lis
 
 [**View Episode Calendar**](https://calendar.google.com/calendar/embed?src=c_r0u072069ks1htjgkn8j4a9dj0%40group.calendar.google.com&ctz=Europe%2FLondon) | [**Add Google Calendar**](https://calendar.google.com/calendar/u/0?cid=Y19yMHUwNzIwNjlrczFodGpna244ajRhOWRqMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 
-- Episode #20: TBD
-  - 11am PT, 2pm ET, 7pm UK, 8pm Central Europe - 10 September 2021
-  - [Convert to your timezone / get calendar link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=eBPF+%26+Cilium+Office+Hours&iso=20210910T19&p1=136&am=30)
-  - Watch on [YouTube](https://youtu.be/t3vCRN9spWo)  
 
 - Episode #21: TBD
   - 6am PT, 9am ET, 2pm UK, 3pm Central Europe - 17 September 2021
   - [Convert to your timezone / get calendar link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=eBPF+%26+Cilium+Office+Hours&iso=20210917T14&p1=136&am=30)
   - Watch on [YouTube](https://youtu.be/ZPJBErFqBiA)
+
+- Episode #22: EKS Anywhere with Justin Garrison
+  - 11am PT, 2pm ET, 7pm UK, 8pm Central Europe - 24 September 2021
+  - [Convert to your timezone / get calendar link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=eBPF+%26+Cilium+Office+Hours&iso=20210910T19&p1=136&am=30)
+  - Watch on [YouTube](https://youtu.be/yAoZi89CZ5o)
 
 We'd love your questions during the show! 
 
@@ -28,6 +29,9 @@ Please [open an issue](https://github.com/cilium/eCHO/issues/new) if you have an
 
 ## Previous episodes
 
+- Episode #20: [conntracker](https://youtu.be/NuXo8waYKzA) with [Rafael David
+  Tinco](https://twitter.com/rafaeldtinoco)
+  - [Show notes](/epsisodes/020) 
 - Episode #19: [Inspektor Gadget](https://youtu.be/RZ2qNm_vlUc) with [Marga Manterola](https://twitter.com/marga_manterola)
   - [Show notes](/episodes/019)
 - Episode #18: [eBPF Capture The Flag part #3](https://youtu.be/l18YnO2b7mM)
