@@ -11,7 +11,7 @@ Previous episodes are all [here on YouTube](https://www.youtube.com/playlist?lis
 [**View Episode Calendar**](https://calendar.google.com/calendar/embed?src=c_r0u072069ks1htjgkn8j4a9dj0%40group.calendar.google.com&ctz=Europe%2FLondon) | [**Add Google Calendar**](https://calendar.google.com/calendar/u/0?cid=Y19yMHUwNzIwNjlrczFodGpna244ajRhOWRqMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 
 
-- Episode #21: TBD
+- Episode #21: Ask Thomas: eBPF Foundation & Cilium AWS Announcement with [Thomas Graf](https://twitter.com/tgraf__)
   - 6am PT, 9am ET, 2pm UK, 3pm Central Europe - 17 September 2021
   - [Convert to your timezone / get calendar link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=eBPF+%26+Cilium+Office+Hours&iso=20210917T14&p1=136&am=30)
   - Watch on [YouTube](https://youtu.be/ZPJBErFqBiA)
