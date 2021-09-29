@@ -9,10 +9,7 @@ with [Timo Beckers](https://github.com/ti-mo), hosted by [Liz Rice](https://twit
 
 ## Links
 
-## cilium/ebpf
+https://github.com/cilium/ebpf
 
-
-- Episode #23: [cilium/ebpf](https://youtu.be/8z2R13GRi5g) with [Timo Beckers](https://github.com/ti-mo)
-  - [Show notes](/episodes/023)
 
 

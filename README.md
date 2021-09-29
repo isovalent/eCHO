@@ -10,10 +10,6 @@ Previous episodes are all [here on YouTube](https://www.youtube.com/playlist?lis
 
 [**View Episode Calendar**](https://calendar.google.com/calendar/embed?src=c_r0u072069ks1htjgkn8j4a9dj0%40group.calendar.google.com&ctz=Europe%2FLondon) | [**Add Google Calendar**](https://calendar.google.com/calendar/u/0?cid=Y19yMHUwNzIwNjlrczFodGpna244ajRhOWRqMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 
-- Episode #23: cilium/ebpf Go library with Timo Beckers
-  - 6am PT, 9am ET, 2pm UK, 3pm Central Europe - 1 October 2021
-  - [Convert to your timezone / get calendar link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=eBPF+%26+Cilium+Office+Hours&iso=20211001T14&p1=136&am=30)
-  - [Watch on YouTube](https://youtu.be/8z2R13GRi5g)
 
 - Episode #24: TBD
   - 11am PT, 2pm ET, 7pm UK, 8pm Central Europe - 8 October 2021
@@ -33,9 +29,10 @@ Please [open an issue](https://github.com/cilium/eCHO/issues/new) if you have an
 
 ## Previous episodes
 
+- Episode #23: [cilium/ebpf](https://youtu.be/8z2R13GRi5g) with [Timo Beckers](https://github.com/ti-mo)
+  - [Show notes](/episodes/023)
 - Episode #21 had to be cancelled with late notice (sorry!) 
-- Episode #20: [conntracker](https://youtu.be/NuXo8waYKzA) with [Rafael David
-  Tinco](https://twitter.com/rafaeldtinoco)
+- Episode #20: [conntracker](https://youtu.be/NuXo8waYKzA) with [Rafael David Tinco](https://twitter.com/rafaeldtinoco)
   - [Show notes](/epsisodes/020) 
 - Episode #19: [Inspektor Gadget](https://youtu.be/RZ2qNm_vlUc) with [Marga Manterola](https://twitter.com/marga_manterola)
   - [Show notes](/episodes/019)
