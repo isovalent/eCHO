@@ -51,7 +51,7 @@ Please [open an issue](https://github.com/cilium/eCHO/issues/new) if you have an
   - [Show notes](/episodes/013)
 - Episode #12: [kubectl trace](https://youtu.be/J-fyQ3H4hLw) 
   - [Show notes](/episodes/012)
-- Episode #11: [Exploring bpftool with Quentin Monnet](https://youtu.be/1EOLh3zzWP4) with [Quentin Monnet](https://twitter.com/qeole)
+- Episode #11: [Exploring bpftool](https://youtu.be/1EOLh3zzWP4) with [Quentin Monnet](https://twitter.com/qeole)
   - [Show notes](/episodes/011)
 - Episode #10: [eBPF for Windows](https://youtu.be/LrrV-eo6fug) with [Dave Thaler](https://github.com/dthaler)
   - [Show notes](/episodes/010)
