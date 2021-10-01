@@ -16,7 +16,7 @@ Previous episodes are all [here on YouTube](https://www.youtube.com/playlist?lis
   - [Convert to your timezone / get calendar link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=eBPF+%26+Cilium+Office+Hours&iso=20211008T19&p1=136&am=30)
   - Link to YouTube TBD
 
-- Episode #25: TBD
+- Episode #25: Aya, Rust & eBPF with Dave Tucker & Alessandro Decina
   - 6am PT, 9am ET, 2pm UK, 3pm Central Europe - 15 October 2021
   - [Convert to your timezone / get calendar link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=eBPF+%26+Cilium+Office+Hours&iso=20211015T14&p1=136&am=30)
   - Link to YouTube TBD
@@ -31,6 +31,7 @@ Please [open an issue](https://github.com/cilium/eCHO/issues/new) if you have an
 
 - Episode #23: [cilium/ebpf](https://youtu.be/8z2R13GRi5g) with [Timo Beckers](https://github.com/ti-mo)
   - [Show notes](/episodes/023)
+- Episode #22: [EKS Anywhere](https://youtu.be/yAoZi89CZ5o) with [Justin Garrison](https://twitter.com/rothgar)
 - Episode #21 had to be cancelled with late notice (sorry!) 
 - Episode #20: [conntracker](https://youtu.be/NuXo8waYKzA) with [Rafael David Tinco](https://twitter.com/rafaeldtinoco)
   - [Show notes](/epsisodes/020) 
