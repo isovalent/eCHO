@@ -200,7 +200,7 @@ func readEpisode(in io.Reader) (*Episode, error) {
 
 	p = promptui.Prompt{
 		Label:   "Guest URL",
-		Default: "https://",
+		Default: fields[8],
 	}
 
 	ep.GuestURL, err = p.Run()
@@ -210,7 +210,7 @@ func readEpisode(in io.Reader) (*Episode, error) {
 
 	p = promptui.Prompt{
 		Label:   "YouTube URL",
-		Default: "https://",
+		Default: fields[7],
 	}
 
 	ep.YouTube, err = p.Run()
