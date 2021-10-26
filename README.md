@@ -10,20 +10,22 @@ Previous episodes are all [here on YouTube](https://www.youtube.com/playlist?lis
 
 [**View Episode Calendar**](https://calendar.google.com/calendar/embed?src=c_r0u072069ks1htjgkn8j4a9dj0%40group.calendar.google.com&ctz=Europe%2FLondon) | [**Add Google Calendar**](https://calendar.google.com/calendar/u/0?cid=Y19yMHUwNzIwNjlrczFodGpna244ajRhOWRqMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 
-- Episode #27: LSM with KP Singh
-  - 6am PT, 9am ET, 2pm UK, 3pm Central Europe - 29 October 2021
-  - [Convert to your timezone / get calendar link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=eBPF+%26+Cilium+Office+Hours&iso=20211029T14&p1=136&am=30)
-  - [Link to YouTube](https://youtu.be/nJT0ASbGLvs)
-
 - Episode #28: TBD
+
+- Episode #29: TBD
+  - 6am PT, 9am ET, 2pm UK, 3pm Central Europe - 12 November 2021
+  - [Convert to your timezone / get calendar link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=eBPF+%26+Cilium+Office+Hours&iso=20211112T14&p1=136&am=30)
+  - [Link to YouTube TBD]()
 
 We'd love your questions during the show! 
 
 ## Suggest a topic
 
-Please [open an issue](https://github.com/cilium/eCHO/issues/new) if you have an idea for a topic we should cover or a guest we should invite.
+Please [open an issue](https://github.com/isovalent/eCHO/issues/new) if you have an idea for a topic we should cover or a guest we should invite.
 
 ## Previous episodes
+- Episode #27: [BPF LSM](https://youtu.be/nJT0ASbGLvs) with [KP Singh](https://twitter.com/__kpsingh)
+  - [Show notes](/episodes/027)
 - Episode #26: [Post KubeCon wrap-up](https://www.youtube.com/watch?v=Qw_epZdkHFw)
 - Episode #25: [Aya, Rust & eBPF](https://youtu.be/TQ0ou-eFLAk) with [Dave Tucker](https://twitter.com/dave-tucker) & [Alessandro Decina](https://twitter.com/alessandrod)
 - Episode #24: [kubecon and ebpf day preview!](https://youtu.be/do6yKVlICIc)
