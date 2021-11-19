@@ -10,11 +10,6 @@ Previous episodes are all [here on YouTube](https://www.youtube.com/playlist?lis
 
 [**View Episode Calendar**](https://calendar.google.com/calendar/embed?src=c_r0u072069ks1htjgkn8j4a9dj0%40group.calendar.google.com&ctz=Europe%2FLondon) | [**Add Google Calendar**](https://calendar.google.com/calendar/u/0?cid=Y19yMHUwNzIwNjlrczFodGpna244ajRhOWRqMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 
-- Episode #29: BPF LSM with KP Singh
-  - 6am PT, 9am ET, 2pm UK, 3pm Central Europe - 19 November 2021
-  - [Convert to your timezone / get calendar link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=eBPF+%26+Cilium+Office+Hours&iso=20211119T14&p1=136&am=30)
-  - [Link to YouTube](https://youtu.be/OBFYMBHrstI)
-
 - Episode #30: Thanksgiving week - TBD 
 
 - Episode #30/31: TBD
@@ -28,6 +23,8 @@ Previous episodes are all [here on YouTube](https://www.youtube.com/playlist?lis
 Please [open an issue](https://github.com/isovalent/eCHO/issues/new) if you have an idea for a topic we should cover or a guest we should invite.
 
 ## Previous episodes
+- Episode #29: [BPF LSM](https://youtu.be/OBFYMBHrstI) with [KP Singh](https://twitter.com/_kpsingh)
+  - [Show notes](/episodes/029)
 - Episode #28: [Packet Where R U?](https://youtu.be/JEY3s0JAB1s) with [Martynas Pumputis](https://twitter.com/martyns)
 - Episode #27: [eBPF Service Mesh](https://youtu.be/nJT0ASbGLvs) with [Thomas Graf](https://twitter.com/tgraf__)
   - [Show notes](/episodes/027)
