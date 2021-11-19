@@ -2,7 +2,7 @@
 
 # eCHO - eBPF & Cilium Office Hours
 
-With a little bit of imagination, eCHO stands for "eBPF & Cilium Office Hours". Inspired by [TGIK](https://github.com/vmware-tanzu/tgik) this is a livestream hosted by [Liz Rice](https://twitter.com/lizrice) and [Duffie Cooley](https://twitter.com/mauilion) where we'll discuss all things related to the Cilium project and the broader world of eBPF. 
+With a little bit of imagination, eCHO stands for "eBPF & Cilium Office Hours". Inspired by [TGIK](https://github.com/vmware-tanzu/tgik) this is a livestream hosted by [Liz Rice](https://twitter.com/lizrice) and [Duffie Cooley](https://twitter.com/mauilion) where we'll discuss all things related to the Cilium project and the broader world of eBPF. We'd love your questions during the show! 
 
 Previous episodes are all [here on YouTube](https://www.youtube.com/playlist?list=PLDg_GiBbAx-mY3VFLPbLHcxo6wUjejAOC).
 
@@ -10,28 +10,25 @@ Previous episodes are all [here on YouTube](https://www.youtube.com/playlist?lis
 
 [**View Episode Calendar**](https://calendar.google.com/calendar/embed?src=c_r0u072069ks1htjgkn8j4a9dj0%40group.calendar.google.com&ctz=Europe%2FLondon) | [**Add Google Calendar**](https://calendar.google.com/calendar/u/0?cid=Y19yMHUwNzIwNjlrczFodGpna244ajRhOWRqMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 
-- Episode #28: Packet Where R U? 
-  - 11am PT, 2pm ET, *6pm* UK, *7pm* Central Europe - 5 November 2021
-  - [Convert to your timezone / get calendar link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=eBPF+%26+Cilium+Office+Hours&iso=20211105T18&p1=136&am=30)
-  - [Link to YouTube](https://youtu.be/JEY3s0JAB1s)
-
-- Episode #29: TBD
-  - 11am PT, 2pm ET, 7pm UK, 8pm Central Europe - 12 November 2021
-  - [Convert to your timezone / get calendar link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=eBPF+%26+Cilium+Office+Hours&iso=20211105T18&p1=136&am=30)
-  - Link to YouTube TBD
-
-- Episode #30: BPF LSM with KP Singh
+- Episode #29: BPF LSM with KP Singh
   - 6am PT, 9am ET, 2pm UK, 3pm Central Europe - 19 November 2021
   - [Convert to your timezone / get calendar link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=eBPF+%26+Cilium+Office+Hours&iso=20211119T14&p1=136&am=30)
   - [Link to YouTube](https://youtu.be/OBFYMBHrstI)
 
-We'd love your questions during the show! 
+- Episode #30: Thanksgiving week - TBD 
+
+- Episode #30/31: TBD
+  - 6am PT, 9am ET, 2pm UK, 3pm Central Europe - 3 December 2021
+  - [Convert to your timezone / get calendar link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=eBPF+%26+Cilium+Office+Hours&iso=20211203T14&p1=136&am=30)
+  - [Link to YouTube TBD]()
+
 
 ## Suggest a topic
 
 Please [open an issue](https://github.com/isovalent/eCHO/issues/new) if you have an idea for a topic we should cover or a guest we should invite.
 
 ## Previous episodes
+- Episode #28: [Packet Where R U?](https://youtu.be/JEY3s0JAB1s) with [Martynas Pumputis](https://twitter.com/martyns)
 - Episode #27: [eBPF Service Mesh](https://youtu.be/nJT0ASbGLvs) with [Thomas Graf](https://twitter.com/tgraf__)
   - [Show notes](/episodes/027)
 - Episode #26: [Post KubeCon wrap-up](https://www.youtube.com/watch?v=Qw_epZdkHFw)
