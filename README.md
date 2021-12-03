@@ -10,17 +10,24 @@ Previous episodes are all [here on YouTube](https://www.youtube.com/playlist?lis
 
 [**View Episode Calendar**](https://calendar.google.com/calendar/embed?src=c_r0u072069ks1htjgkn8j4a9dj0%40group.calendar.google.com&ctz=Europe%2FLondon) | [**Add Google Calendar**](https://calendar.google.com/calendar/u/0?cid=Y19yMHUwNzIwNjlrczFodGpna244ajRhOWRqMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 
-- Episode #30: TBD
-  - 6am PT, 9am ET, 2pm UK, 3pm Central Europe - 3 December 2021
-  - [Convert to your timezone / get calendar link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=eBPF+%26+Cilium+Office+Hours&iso=20211203T14&p1=136&am=30)
-  - [YouTube](https://youtu.be/nsfbFUO8eu4)
+- Episode #31: TBD
+  - 11am PT, 2pm ET, 7pm UK, 8pm Central Europe - 10 December 2021
+  - [Convert to your timezone / get calendar link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=eBPF+%26+Cilium+Office+Hours&iso=20211210T19&p1=136&am=30)
+  - [Link to YouTube TBD]()
 
+- Episode #32: TBD
+  - 6am PT, 9am ET, 2pm UK, 3pm Central Europe - 17 December 2021
+  - [Convert to your timezone / get calendar link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=eBPF+%26+Cilium+Office+Hours&iso=20211217T14&p1=136&am=30)
+  - [Link to YouTube TBD]()
 
 ## Suggest a topic
 
 Please [open an issue](https://github.com/isovalent/eCHO/issues/new) if you have an idea for a topic we should cover or a guest we should invite.
 
 ## Previous episodes
+
+- Episode #30: [1.11 release](https://youtu.be/nsfbFUO8eu4) with Louis de los Santos and Christopher Luciano
+  - [Show notes](/episodes/030)
 - Episode #29: [BPF LSM](https://youtu.be/OBFYMBHrstI) with [KP Singh](https://twitter.com/_kpsingh)
   - [Show notes](/episodes/029)
 - Episode #28: [Packet Where R U?](https://youtu.be/JEY3s0JAB1s) with [Martynas Pumputis](https://twitter.com/martyns)
