@@ -10,18 +10,16 @@ Previous episodes are all [here on YouTube](https://www.youtube.com/playlist?lis
 
 [**View Episode Calendar**](https://calendar.google.com/calendar/embed?src=c_r0u072069ks1htjgkn8j4a9dj0%40group.calendar.google.com&ctz=Europe%2FLondon) | [**Add Google Calendar**](https://calendar.google.com/calendar/u/0?cid=Y19yMHUwNzIwNjlrczFodGpna244ajRhOWRqMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 
-- Episode #32: Hands on with Cilium Service Mesh 
-  - 6am PT, 9am ET, 2pm UK, 3pm Central Europe - 17 December 2021
-  - [Convert to your timezone / get calendar link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=eBPF+%26+Cilium+Office+Hours&iso=20211217T14&p1=136&am=30)
-  - [YouTube](https://youtu.be/s-tgbD7wN3U)
-
-We'll be back in 2022! 
+We're taking a break over the holidays and will be back in 2022! 
 
 ## Suggest a topic
 
 Please [open an issue](https://github.com/isovalent/eCHO/issues/new) if you have an idea for a topic we should cover or a guest we should invite.
 
 ## Previous episodes
+
+- Episode #32: [Hands on with Cilium Service Mesh](https://youtu.be/s-tgbD7wN3U) 
+  - [Show notes](/episodes/032)
 - Episode #31: [Openshift and cilium!](https://youtu.be/4jwIBS5IzYg) exploring
   netboot pxe haproxy openshift and cilium!
 - Episode #30: [1.11 release](https://youtu.be/nsfbFUO8eu4) with Louis de los Santos and Christopher Luciano
