@@ -15,7 +15,7 @@ Previous episodes are all [here on YouTube](https://www.youtube.com/playlist?lis
   - [Convert to your timezone / get calendar link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=eBPF+%26+Cilium+Office+Hours&iso=20220121T19&p1=136&am=30)
   - [Link to YouTube TBD]()
 
-  - Episode #35: Parca with Frederic Branczyk
+- Episode #35: Parca with Frederic Branczyk
   - 6am PT, 9am ET, 2pm UK, 3pm Central Europe - 28 January 2022
   - [Convert to your timezone / get calendar link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=eBPF+%26+Cilium+Office+Hours&iso=20220128T14&p1=136&am=30)
   - [YouTube](https://youtu.be/HGyNZaJuqIM)
