@@ -143,10 +143,10 @@ func readEpisode(in io.Reader) (*Episode, error) {
 	}
 
 	ep := Episode{
-		Title: fields[3],
+		Title: fields[4],
 	}
 
-	ep.Date, err = time.Parse("2-January-2006", fields[0])
+	ep.Date, err = time.Parse("2-Jan-2006", fields[0])
 	if err != nil {
 		return nil, fmt.Errorf("failed parsing date from %s: %v", fields[0], err)
 	}
@@ -158,7 +158,7 @@ func readEpisode(in io.Reader) (*Episode, error) {
 
 	host := ""
 	hostURL := ""
-	switch fields[4] {
+	switch fields[3] {
 	case "Liz":
 		host = "Liz Rice"
 		hostURL = "https://twitter.com/lizrice"
