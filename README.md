@@ -10,10 +10,15 @@ Previous episodes are all [here on YouTube](https://www.youtube.com/playlist?lis
 
 [**View Episode Calendar**](https://calendar.google.com/calendar/embed?src=c_r0u072069ks1htjgkn8j4a9dj0%40group.calendar.google.com&ctz=Europe%2FLondon) | [**Add Google Calendar**](https://calendar.google.com/calendar/u/0?cid=Y19yMHUwNzIwNjlrczFodGpna244ajRhOWRqMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 
-- Episode #34: Parca with Frederic Branczyk
-  - 6am PT, 9am ET, 2pm UK, 3pm Central Europe - 28 January 2022
-  - [Convert to your timezone / get calendar link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=eBPF+%26+Cilium+Office+Hours&iso=20220128T14&p1=136&am=30)
-  - [YouTube](https://youtu.be/HGyNZaJuqIM)
+- Episode #35: TBD
+  - 11am PT, 2pm ET, 7pm UK, 8pm Central Europe - 4 February 2022
+  - [Convert to your timezone / get calendar link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=eBPF+%26+Cilium+Office+Hours&iso=20220204T19&p1=136&am=30)
+  - [YouTube link coming soon]()
+
+- Episode #36: TBD
+  - 6am PT, 9am ET, 2pm UK, 3pm Central Europe - 11 February 2022
+  - [Convert to your timezone / get calendar link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=eBPF+%26+Cilium+Office+Hours&iso=20220211T14&p1=136&am=30)
+  - [YouTube link coming soon]()
 
 ## Suggest a topic
 
@@ -21,6 +26,8 @@ Please [open an issue](https://github.com/isovalent/eCHO/issues/new) if you have
 
 ## Previous episodes
 
+- Episode #34: [Parca](https://youtu.be/HGyNZaJuqIM) with [Frederic Branczyk](https://twitter.com/fredbrancz)
+  - [Show notes](/episodes/034)
 - Episode #33: [Bumblebee](https://youtu.be/AYLpK5zHzCo) 
   - [Show notes](/episodes/033)
 - Episode #32: [Hands on with Cilium Service Mesh](https://youtu.be/s-tgbD7wN3U) 
