@@ -9,6 +9,8 @@
 
 ## Preparation
 
+Two or more weeks before broadcast
+
 **YouTube link and description**
 
 * [ ] Set up the episode in StreamYard so that we have a YouTube URL, including the topic & guests
@@ -28,25 +30,27 @@
 
 * [ ] Send invite to guest with Streamyard link (start 15 mins early)
 * [ ] Invite a chat moderator to YouTube
+
+## Week of broadcast - Monday / Tuesday
+
 * [ ] Share event on social media
 * [ ] Post & pin link to #general channel in eBPF & Cilium Slack
-
-**Content preparation**
-
-Early in week of broadcast
 * [ ] Agree episode outline with guest
-* [ ] Prepare headlines (picking good ones from the eCHO-ing News sheet)
 * [ ] Add links for the main topic: project repo, guest links, blogs, other resources...
 
-## Episode ready
+## Broadcast day - Friday
 
-Just before broadcast
+* [ ] Add headlines (picking good ones from the eCHO-ing News sheet) in HackMD
+
+**Just before broadcast**
+
 * [ ] Test sound & screen sharing with guest
+* [ ] Check HackMD notes are ready
 * [ ] Reminders in social media and Slack
 
-## After the episode
+**After the episode**
 
-* [ ] Update & merge the episode notes as a PR
+* [ ] Update & merge the episode notes (use HackMD GitHub sync)
 * [ ] Add link to the [README](README.md) and make sure next two episodes are listed
 * [ ] Make sure episode is on the [YouTube playlist](https://www.youtube.com/playlist?list=PLDg_GiBbAx-mY3VFLPbLHcxo6wUjejAOC)
 * [ ] Update thumbnail image
