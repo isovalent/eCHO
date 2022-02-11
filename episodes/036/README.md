@@ -23,9 +23,13 @@ with [Kevin Sheldrake](twitter.com/kevsecurity), hosted by [Liz Rice](https://tw
     * Might be easier to understand than Sysmon For Linux
 * [Early eBPF demo program](https://github.com/microsoft/OMS-Auditd-Plugin/tree/MSTIC-Research/ebpf_demo)
     * Where it all started!
-
 * [Kev's eBPF Summit talk](https://youtu.be/sZDGyr669kc) on auto-discovering kernel struct offsets 
 * [TOCTTOU Phantom attacks](https://media.defcon.org/DEF%20CON%2029/DEF%20CON%2029%20presentations/Rex%20Guo%20Junyuan%20Zeng%20-%20Phantom%20Attack%20-%20%20Evading%20System%20Call%20Monitoring.pdf) from DefCon 29
+
+## eBPF Verifier Bugs
+
+* [CVE-2021-31440: AN INCORRECT BOUNDS CALCULATION IN THE LINUX KERNEL EBPF VERIFIER](https://www.zerodayinitiative.com/blog/2021/5/26/cve-2021-31440-an-incorrect-bounds-calculation-in-the-linux-kernel-ebpf-verifier) by Manfred Paul of the RedRocket CTF team
+* [Kernel Pwning with eBPF: a Love Story](https://www.graplsecurity.com/post/kernel-pwning-with-ebpf-a-love-story) by Valentina Palmiotti
 
 ## Magic & Hypnosis
 
