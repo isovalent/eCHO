@@ -2,7 +2,7 @@
 
 # eCHO - eBPF & Cilium Office Hours
 
-With a little bit of imagination, eCHO stands for "eBPF & Cilium Office Hours". Inspired by [TGIK](https://github.com/vmware-tanzu/tgik) this is a livestream hosted by [Liz Rice](https://twitter.com/lizrice) and [Duffie Cooley](https://twitter.com/mauilion) where we'll discuss all things related to the Cilium project and the broader world of eBPF. We'd love your questions during the show! 
+With a little bit of imagination, eCHO stands for "eBPF & Cilium Office Hours". Inspired by [TGIK](https://github.com/vmware-tanzu/tgik) this is a livestream hosted by [Liz Rice](https://twitter.com/lizrice) and [Duffie Cooley](https://twitter.com/mauilion) where we'll discuss all things related to the Cilium project and the broader world of eBPF. We'd love your questions during the show!
 
 Previous episodes are all [here on YouTube](https://www.youtube.com/playlist?list=PLDg_GiBbAx-mY3VFLPbLHcxo6wUjejAOC).
 
@@ -10,15 +10,15 @@ Previous episodes are all [here on YouTube](https://www.youtube.com/playlist?lis
 
 [**View Episode Calendar**](https://calendar.google.com/calendar/embed?src=c_r0u072069ks1htjgkn8j4a9dj0%40group.calendar.google.com&ctz=Europe%2FLondon) | [**Add Google Calendar**](https://calendar.google.com/calendar/u/0?cid=Y19yMHUwNzIwNjlrczFodGpna244ajRhOWRqMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 
-- Episode #35: Kubernetes Topology aware routing and Cilium
-  - 11am PT, 2pm ET, 7pm UK, 8pm Central Europe - 4 February 2022
-  - [Convert to your timezone / get calendar link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=eBPF+%26+Cilium+Office+Hours&iso=20220204T19&p1=136&am=30)
-  - [YouTube link](https://youtu.be/7Clr3rY02NQ)
-
-- Episode #36: TBD
+- Episode #36: Sysmon for Linux
   - 6am PT, 9am ET, 2pm UK, 3pm Central Europe - 11 February 2022
   - [Convert to your timezone / get calendar link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=eBPF+%26+Cilium+Office+Hours&iso=20220211T14&p1=136&am=30)
-  - [YouTube link coming soon](https://youtu.be/HsvYBnGq3FA)
+  - [YouTube](https://youtu.be/HsvYBnGq3FA)
+
+- Episode #37: TBD
+  - 11am PT, 2pm ET, 7pm UK, 8pm Central Europe - 18 February 2022
+  - [Convert to your timezone / get calendar link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=eBPF+%26+Cilium+Office+Hours&iso=20220218T19&p1=136&am=30)
+  - YouTube link coming soon
 
 ## Suggest a topic
 
@@ -26,11 +26,12 @@ Please [open an issue](https://github.com/isovalent/eCHO/issues/new) if you have
 
 ## Previous episodes
 
+- Episode #35: [Kubernetes Topology aware routing and Cilium](https://youtu.be/7Clr3rY02NQ)
 - Episode #34: [Parca](https://youtu.be/HGyNZaJuqIM) with [Frederic Branczyk](https://twitter.com/fredbrancz)
   - [Show notes](/episodes/034)
-- Episode #33: [Bumblebee](https://youtu.be/AYLpK5zHzCo) 
+- Episode #33: [Bumblebee](https://youtu.be/AYLpK5zHzCo)
   - [Show notes](/episodes/033)
-- Episode #32: [Hands on with Cilium Service Mesh](https://youtu.be/s-tgbD7wN3U) 
+- Episode #32: [Hands on with Cilium Service Mesh](https://youtu.be/s-tgbD7wN3U)
   - [Show notes](/episodes/032)
 - Episode #31: [Openshift and cilium!](https://youtu.be/4jwIBS5IzYg) exploring
   netboot pxe haproxy openshift and cilium!
@@ -49,9 +50,9 @@ Please [open an issue](https://github.com/isovalent/eCHO/issues/new) if you have
 - Episode #23: [cilium/ebpf](https://youtu.be/8z2R13GRi5g) with [Timo Beckers](https://github.com/ti-mo)
   - [Show notes](/episodes/023)
 - Episode #22: [EKS Anywhere](https://youtu.be/yAoZi89CZ5o) with [Justin Garrison](https://twitter.com/rothgar)
-- Episode #21 had to be cancelled with late notice (sorry!) 
+- Episode #21 had to be cancelled with late notice (sorry!)
 - Episode #20: [conntracker](https://youtu.be/NuXo8waYKzA) with [Rafael David Tinco](https://twitter.com/rafaeldtinoco)
-  - [Show notes](/epsisodes/020) 
+  - [Show notes](/epsisodes/020)
 - Episode #19: [Inspektor Gadget](https://youtu.be/RZ2qNm_vlUc) with [Marga Manterola](https://twitter.com/marga_manterola)
   - [Show notes](/episodes/019)
 - Episode #18: [eBPF Capture The Flag part #3](https://youtu.be/l18YnO2b7mM)
@@ -69,7 +70,7 @@ Please [open an issue](https://github.com/isovalent/eCHO/issues/new) if you have
   - [Show notes](/episodes/014)  
 - Episode #13: [XDP Tutorial](https://youtu.be/YUI78vC4qSQ) with [Liz Rice](https://twitter.com/lizrice)
   - [Show notes](/episodes/013)
-- Episode #12: [kubectl trace](https://youtu.be/J-fyQ3H4hLw) 
+- Episode #12: [kubectl trace](https://youtu.be/J-fyQ3H4hLw)
   - [Show notes](/episodes/012)
 - Episode #11: [Exploring bpftool](https://youtu.be/1EOLh3zzWP4) with [Quentin Monnet](https://twitter.com/qeole)
   - [Show notes](/episodes/011)
@@ -93,4 +94,3 @@ Please [open an issue](https://github.com/isovalent/eCHO/issues/new) if you have
   - [Show notes](/episodes/002)
 - Episode #1: [Intro to Cilium](https://youtu.be/80OYrzS1dCA) with [Thomas Graf](https://twitter.com/tgraf__)
   - [Show notes](/episodes/001)
-
