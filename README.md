@@ -6,13 +6,19 @@ With a little bit of imagination, eCHO stands for "eBPF & Cilium Office Hours". 
 
 Previous episodes are all [here on YouTube](https://www.youtube.com/playlist?list=PLDg_GiBbAx-mY3VFLPbLHcxo6wUjejAOC).
 
+Sign up for the eCHO Newsletter [here](https://docs.google.com/forms/d/1tvwEEB4f2S92IDLLkrPoHV8xhFQq5uwxotovDqqEphk/edit)
+
 ## Upcoming episodes
 
 [**View Episode Calendar**](https://calendar.google.com/calendar/embed?src=c_r0u072069ks1htjgkn8j4a9dj0%40group.calendar.google.com&ctz=Europe%2FLondon) | [**Add Google Calendar**](https://calendar.google.com/calendar/u/0?cid=Y19yMHUwNzIwNjlrczFodGpna244ajRhOWRqMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 
-- Episode #37: [Rancher rke2 and cilium, continuing exploration of topology aware routing.](https://youtu.be/P7WKlhyoyMA)
-  - 11am PT, 2pm ET, 7pm UK, 8pm Central Europe - 18 February 2022
-  - [Convert to your timezone / get calendar link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=eBPF+%26+Cilium+Office+Hours&iso=20220218T19&p1=136&am=30)
+- Episode #39: TBD
+  - 11am PT, 2pm ET, 7pm UK, 8pm Central Europe - 11 March 2022
+  - [Convert to your timezone / get calendar link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=eBPF+%26+Cilium+Office+Hours&iso=20220311T19&p1=136&am=30)
+
+- Episode #40: TBD
+  - 6am PT, 9am ET, 2pm UK, 3pm Central Europe - 18 March 2022
+  - [Convert to your timezone / get calendar link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=eBPF+%26+Cilium+Office+Hours&iso=20220318T14&p1=136&am=30)
 
 
 ## Suggest a topic
@@ -21,7 +27,10 @@ Please [open an issue](https://github.com/isovalent/eCHO/issues/new) if you have
 
 ## Previous episodes
 
-- Episode #36: [Sysmon for Linux](https://youtu.be/HsvYBnGq3FA) with [Kevin Sheldrake](twitter.com/kevsecurity)
+- Episode #38: [bpfcov](https://youtu.be/wul6NBU23zY) with [Leo Di Donato](https://twitter.com/leodido)
+  - [Show notes](/episodes/038)
+- Episode #37: [Rancher RKE2 and topology aware routing](https://youtu.be/P7WKlhyoyMA)
+- Episode #36: [Sysmon for Linux](https://youtu.be/HsvYBnGq3FA) with [Kevin Sheldrake](https://twitter.com/kevsecurity)
   - [Show notes](/episodes/036)
 - Episode #35: [Kubernetes Topology aware routing and Cilium](https://youtu.be/7Clr3rY02NQ)
 - Episode #34: [Parca](https://youtu.be/HGyNZaJuqIM) with [Frederic Branczyk](https://twitter.com/fredbrancz)
