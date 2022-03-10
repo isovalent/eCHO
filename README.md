@@ -12,7 +12,7 @@ Sign up for the eCHO Newsletter [here](https://docs.google.com/forms/d/1tvwEEB4f
 
 [**View Episode Calendar**](https://calendar.google.com/calendar/embed?src=c_r0u072069ks1htjgkn8j4a9dj0%40group.calendar.google.com&ctz=Europe%2FLondon) | [**Add Google Calendar**](https://calendar.google.com/calendar/u/0?cid=Y19yMHUwNzIwNjlrczFodGpna244ajRhOWRqMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 
-- Episode #39: TBD
+- Episode #39: [Exploring Local Redirect Policy](https://youtu.be/BT_gdlhjiQc)
   - 11am PT, 2pm ET, 7pm UK, 8pm Central Europe - 11 March 2022
   - [Convert to your timezone / get calendar link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=eBPF+%26+Cilium+Office+Hours&iso=20220311T19&p1=136&am=30)
 
