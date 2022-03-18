@@ -1,0 +1,14 @@
+apiVersion: cilium.io/v2
+kind: CiliumClusterwideNetworkPolicy
+metadata:
+  name: example
+specs:
+  - nodeSelector:
+      matchLabels: 
+        policy: example
+    egress:
+    - toEndpoints:
+      toPorts:
+      - ports:
+        - port: '80'
+          protocol: TCP    
