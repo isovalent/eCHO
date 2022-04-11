@@ -14,8 +14,8 @@ Sign up for the eCHO Newsletter [here](https://docs.google.com/forms/d/1tvwEEB4f
 
 No episode on March 25th, we'll be back for episode #41 on April 1st
 
-- Episode #41: TBD
-  - 6am PT, 9am ET, 2pm UK, 3pm Central Europe - 1 April 2022
+- Episode #43: TBD
+  - 6am PT, 9am ET, 2pm UK, 3pm Central Europe - 15th April 2022
   - [Convert to your timezone / get calendar link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=eBPF+%26+Cilium+Office+Hours&iso=20220318T14&p1=136&am=30)
 
 ## Suggest a topic
@@ -24,6 +24,10 @@ Please [open an issue](https://github.com/isovalent/eCHO/issues/new) if you have
 
 ## Previous episodes
 
+- Episode #42: [Multus and Cilium](https://youtu.be/bIYZrSoGTFg) with [Duffie
+  Cooley](https://twitter.com/mauilion)
+- Episode #41: [Cilium Cluster Mesh](https://youtu.be/VBOONHW65NU) with [Liz
+  Rice](https://twitter.com/lizrice)
 - Episode #40: [Host firewall](https://youtu.be/GLLLcz398K0) with [Liz Rice](https://twitter.com/lizrice)
   - [Show notes and config examples](/episodes/040)
 - Episode #39: [Local redirect policy](https://youtu.be/BT_gdlhjiQc) with Duffie Cooley
