@@ -12,11 +12,10 @@ Sign up for the eCHO Newsletter [here](https://docs.google.com/forms/d/1tvwEEB4f
 
 [**View Episode Calendar**](https://calendar.google.com/calendar/embed?src=c_r0u072069ks1htjgkn8j4a9dj0%40group.calendar.google.com&ctz=Europe%2FLondon) | [**Add Google Calendar**](https://calendar.google.com/calendar/u/0?cid=Y19yMHUwNzIwNjlrczFodGpna244ajRhOWRqMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 
-No episode on March 25th, we'll be back for episode #41 on April 1st
 
-- Episode #43: TBD
-  - 6am PT, 9am ET, 2pm UK, 3pm Central Europe - 15th April 2022
-  - [Convert to your timezone / get calendar link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=eBPF+%26+Cilium+Office+Hours&iso=20220318T14&p1=136&am=30)
+- Episode #43: [Deepdive FQDN Policy](https://youtu.be/iJ98HRZi8hM)
+  - 11am PT, 2pm ET, 7pm UK, 8pm Central Europe - 22 April 2022
+  - [Convert to your timezone / get calendar link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=eBPF+%26+Cilium+Office+Hours&iso=20220422T19&p1=136&am=30)
 
 ## Suggest a topic
 
