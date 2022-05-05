@@ -13,16 +13,18 @@ Sign up for the eCHO Newsletter [here](https://docs.google.com/forms/d/1tvwEEB4f
 [**View Episode Calendar**](https://calendar.google.com/calendar/embed?src=c_r0u072069ks1htjgkn8j4a9dj0%40group.calendar.google.com&ctz=Europe%2FLondon) | [**Add Google Calendar**](https://calendar.google.com/calendar/u/0?cid=Y19yMHUwNzIwNjlrczFodGpna244ajRhOWRqMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 
 
-- Episode #43: [Deepdive FQDN Policy](https://youtu.be/iJ98HRZi8hM)
-  - 11am PT, 2pm ET, 7pm UK, 8pm Central Europe - 22 April 2022
-  - [Convert to your timezone / get calendar link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=eBPF+%26+Cilium+Office+Hours&iso=20220422T19&p1=136&am=30)
+- Episode #45: [KubeCon EU 2022 Preview](https://youtu.be/0-mD02qYXHg)
+  - 11am PT, 2pm ET, 7pm UK, 8pm Central Europe - 6th May 2022
+  - [Convert to your timezone / get calendar link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=eBPF+%26+Cilium+Office+Hours&iso=20220506T19&p1=136&am=30)
 
 ## Suggest a topic
 
 Please [open an issue](https://github.com/isovalent/eCHO/issues/new) if you have an idea for a topic we should cover or a guest we should invite.
 
 ## Previous episodes
-
+- Episode #44: [The Inside Track on Sidecarless Service Mesh](https://youtu.be/XpccICEYqiA) with [Thomas Graf](https://twitter.com/tgraf__)
+- Episode #43: [Deepdive FQDN Policy](https://youtu.be/iJ98HRZi8hM) with [Duffie
+  Cooley](https://twitter.com/mauilion)
 - Episode #42: [Multus and Cilium](https://youtu.be/bIYZrSoGTFg) with [Duffie
   Cooley](https://twitter.com/mauilion)
 - Episode #41: [Cilium Cluster Mesh](https://youtu.be/VBOONHW65NU) with [Liz
