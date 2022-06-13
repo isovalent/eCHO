@@ -10,25 +10,33 @@ Sign up for the eCHO Newsletter [here](https://docs.google.com/forms/d/1tvwEEB4f
 
 ## Upcoming episodes
 
-[**View Episode Calendar**](https://calendar.google.com/calendar/embed?src=c_r0u072069ks1htjgkn8j4a9dj0%40group.calendar.google.com&ctz=Europe%2FLondon) | [**Add Google Calendar**](https://calendar.google.com/calendar/u/0?cid=Y19yMHUwNzIwNjlrczFodGpna244ajRhOWRqMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
-
-
-- Episode #45: [KubeCon EU 2022 Preview](https://youtu.be/0-mD02qYXHg)
-  - 11am PT, 2pm ET, 7pm UK, 8pm Central Europe - 6th May 2022
-  - [Convert to your timezone / get calendar link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=eBPF+%26+Cilium+Office+Hours&iso=20220506T19&p1=136&am=30)
+[**View Episode Calendar**](https://calendar.google.com/calendar/embed?src=c_r0u072069ks1htjgkn8j4a9dj0%40group.calendar.google.com&ctz=Europe%2FLondon) | [**Add Google Calendar**](https://calendar.google.com/calendar/u/0?cid=Y19yMHUwNzIwNjlrczFodGpna244ajRhOWRqMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) | [**Subscribe on YouTube**](https://youtube.com/playlist?list=PLDg_GiBbAx-mY3VFLPbLHcxo6wUjejAOC)
 
 ## Suggest a topic
 
 Please [open an issue](https://github.com/isovalent/eCHO/issues/new) if you have an idea for a topic we should cover or a guest we should invite.
 
 ## Previous episodes
+- Episode #48: [Pixie](https://youtu.be/j090RUVuKKk) with [Zain Asgar](https://twitter.com/zainasgar) and [Omid Azizi](https://twitter.com/oazizi)
+  - [Show notes](/episodes/048)   
+- Episode #47: [KubeCon EU wrap-up](https://youtu.be/fTTBk4YFeyc) with [Nicholas Lane](https://twitter.com/apinick) and [Bill Mulligan](https://twitter.com/breakawaybilly)
+  - [Show notes](/episodes/047)  
+- Episode #46: [Security Observability and Runtime Enforcement with Cilium Tetragon](https://youtu.be/1rpykZ8FUvs) with [Liz Rice](https://twitter.com/lizrice) and [Thomas Graf](https://twitter.com/tgraf__)
+  - [Show notes](/episodes/046)  
+- Episode #45: [KubeCon EU Preview](https://youtu.be/0-mD02qYXHg) with [Duffie
+  Cooley](https://twitter.com/mauilion) and [Nicholas Lane](https://twitter.com/apinick)
+  - [Show notes](/episodes/045)  
 - Episode #44: [The Inside Track on Sidecarless Service Mesh](https://youtu.be/XpccICEYqiA) with [Thomas Graf](https://twitter.com/tgraf__)
+  - [Show notes](/episodes/044)  
 - Episode #43: [Deepdive FQDN Policy](https://youtu.be/iJ98HRZi8hM) with [Duffie
   Cooley](https://twitter.com/mauilion)
+  - [Show notes](/episodes/043)  
 - Episode #42: [Multus and Cilium](https://youtu.be/bIYZrSoGTFg) with [Duffie
   Cooley](https://twitter.com/mauilion)
+  - [Show notes](/episodes/042)  
 - Episode #41: [Cilium Cluster Mesh](https://youtu.be/VBOONHW65NU) with [Liz
   Rice](https://twitter.com/lizrice)
+  - [Show notes](/episodes/041)  
 - Episode #40: [Host firewall](https://youtu.be/GLLLcz398K0) with [Liz Rice](https://twitter.com/lizrice)
   - [Show notes and config examples](/episodes/040)
 - Episode #39: [Local redirect policy](https://youtu.be/BT_gdlhjiQc) with Duffie Cooley
