@@ -17,6 +17,8 @@ Sign up for the eCHO Newsletter [here](https://docs.google.com/forms/d/1tvwEEB4f
 Please [open an issue](https://github.com/isovalent/eCHO/issues/new) if you have an idea for a topic we should cover or a guest we should invite.
 
 ## Previous episodes
+- Episode #49: [Graceful Termination]() with [Duffie Cooley](https://twitter.com/mauilion)
+  - [Show notes](episodes/049)
 - Episode #48: [Pixie](https://youtu.be/j090RUVuKKk) with [Zain Asgar](https://twitter.com/zainasgar) and [Omid Azizi](https://twitter.com/oazizi)
   - [Show notes](/episodes/048)   
 - Episode #47: [KubeCon EU wrap-up](https://youtu.be/fTTBk4YFeyc) with [Nicholas Lane](https://twitter.com/apinick) and [Bill Mulligan](https://twitter.com/breakawaybilly)
