@@ -17,6 +17,8 @@ Sign up for the eCHO Newsletter [here](https://docs.google.com/forms/d/1tvwEEB4f
 Please [open an issue](https://github.com/isovalent/eCHO/issues/new) if you have an idea for a topic we should cover or a guest we should invite.
 
 ## Previous episodes
+- Episode #52: [Cilium Interactive Labs](https://youtu.be/HiT2wxQdNBM) with [Liz Rice](https://twitter.com/lizrice), [Nico Vibert](https://twitter.com/nicovibert) and [Raphaël Pinson](https://twitter.com/raphink)
+  - [Show notes](episodes/052)
 - Episode #51: [Life of a Packet: Pod to Pod](https://youtu.be/0BKU6avwS98) with [Duffie Cooley](https://twitter.com/mauilion)
   - [Show notes](episodes/051)
 - Episode #50: [BTFGEN](https://youtu.be/zdbCvGSdFiQ) with [Liz Rice](https://twitter.com/lizrice) and [Mauricio Vásquez Bernal](https://twitter.com/maurovasquezb)
