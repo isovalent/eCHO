@@ -19,3 +19,4 @@
 
 * [Starship](https://starship.rs/) - The minimal, blazing-fast, and infinitely customizable prompt for any shell
 * [Containerlab](https://containerlab.dev/) - CLI for orchestrating and managing container-based networking labs
+* [Summer School](https://cilium.isovalent.com/22-07-21-summer-school-workshop)
