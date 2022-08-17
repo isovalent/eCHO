@@ -6,7 +6,7 @@ With a little bit of imagination, eCHO stands for "eBPF & Cilium Office Hours". 
 
 Previous episodes are all [here on YouTube](https://www.youtube.com/playlist?list=PLDg_GiBbAx-mY3VFLPbLHcxo6wUjejAOC).
 
-Sign up for the eCHO Newsletter [here](https://docs.google.com/forms/d/1tvwEEB4f2S92IDLLkrPoHV8xhFQq5uwxotovDqqEphk/edit)
+We also provide **[eCHO news](https://cilium.io/newsletter/)** as a bi-weekly community wrap up of all things happening in eBPF and Cilium. Sign up today!```
 
 ## Upcoming episodes
 
