@@ -22,14 +22,14 @@ Please [open an issue](https://github.com/isovalent/eCHO/issues/new) if you have
 
 ## Previous episodes
 
-- Episode #56: [Anatomy of an eBPF program](https://youtu.be/nXL737H8Kcc) with [Liz Rice](https://twitter.com/lizrice)
-  - [Show notes](episodes/056)
-- Episode #57: [Life of a Packet: Services Continued](https://youtu.be/Pju0MQRblmc) with [Duffie Cooley](https://twitter.com/mauilion)
-  - [Show notes](episodes/057)
-- Episode #58: [Cilium Service Mesh and Ingress](https://youtu.be/oeh3u4V2--M) with [Liz Rice](https://twitter.com/lizrice) and [Nick Young](https://twitter.com/youngnick)
-  - [Show notes](episodes/058)
 - Episode #59: [Dual Stack with Cilium](https://youtu.be/SwXvGeMy3Wg) with [Duffie Cooley](https://twitter.com/mauilion)
   - [Show notes](episodes/059)
+- Episode #58: [Cilium Service Mesh and Ingress](https://youtu.be/oeh3u4V2--M) with [Liz Rice](https://twitter.com/lizrice) and [Nick Young](https://twitter.com/youngnick)
+  - [Show notes](episodes/058)
+- Episode #57: [Life of a Packet: Services Continued](https://youtu.be/Pju0MQRblmc) with [Duffie Cooley](https://twitter.com/mauilion)
+  - [Show notes](episodes/057)
+- Episode #56: [Anatomy of an eBPF program](https://youtu.be/nXL737H8Kcc) with [Liz Rice](https://twitter.com/lizrice)
+  - [Show notes](episodes/056)
 - Episode #55: [Cilium 1.12 Release](https://youtu.be/oeh3u4V2--M) with [Duffie Cooley](https://twitter.com/mauilion), [Quentin
   Monnet](https://twitter.com/qeole), [Bruno M.Custódio](https://twitter.com/bmcustodio) and many other guests!
   - [Show notes](episodes/055)
