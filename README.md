@@ -1,4 +1,4 @@
-![](images/echo-cilium-ebpf-k8s.png)
+![eCHO Livestream header](images/echo-cilium-ebpf-k8s.png)
 
 # eCHO - eBPF & Cilium Office Hours
 
@@ -33,7 +33,7 @@ Please [open an issue](https://github.com/isovalent/eCHO/issues/new) if you have
 - Episode #55: [Cilium 1.12 Release](https://youtu.be/oeh3u4V2--M) with [Duffie Cooley](https://twitter.com/mauilion), [Quentin
   Monnet](https://twitter.com/qeole), [Bruno M.Custódio](https://twitter.com/bmcustodio) and many other guests!
   - [Show notes](episodes/055)
-- Episode #54: [Tetragon](https://youtu.be/vVFg8WkaeeM) with [Tracy Holmes](https://twitter.com/tracypholmes) and [Natália Réka Ivánkó](https://twitter.com/nataliaivanko)
+- Episode #54: [Tetragon](https://youtu.be/vVFg8WkaeeM) with [Tracy P Holmes](https://twitter.com/tracypholmes) and [Natália Réka Ivánkó](https://twitter.com/nataliaivanko)
   - [Show notes](episodes/054)
 - Episode #53: [Life of a Packet: Services](https://youtu.be/SGfMEpjq07Q) with [Duffie Cooley](https://twitter.com/mauilion)
   - [Show notes](episodes/053)
