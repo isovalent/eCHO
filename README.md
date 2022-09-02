@@ -18,7 +18,7 @@ Please [open an issue](https://github.com/isovalent/eCHO/issues/new) if you have
 
 ## Previous episodes
 
-- Episode #60: [Clilium - Community Edition](https://youtu.be/vJLW8V72vMk) with [Tracy P Holmes](https://twitter.com/tracypholmes)
+- Episode #60: [Clilium - Community Edition](https://youtu.be/vJLW8V72vMk) with [Tracy P Holmes](https://twitter.com/tracypholmes), [Bill Mulligan](https://twitter.com/breakawaybilly), and [Joe Stringer](https://twitter.com/joestringernz)
   - [Show notes](episodes/060)
 - Episode #59: [Dual Stack with Cilium](https://youtu.be/SwXvGeMy3Wg) with [Duffie Cooley](https://twitter.com/mauilion)
   - [Show notes](episodes/059)
