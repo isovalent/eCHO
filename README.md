@@ -13,7 +13,7 @@ We also provide **[eCHO news](https://cilium.io/newsletter/)** as a bi-weekly co
 [**View Episode Calendar**](https://calendar.google.com/calendar/embed?src=c_r0u072069ks1htjgkn8j4a9dj0%40group.calendar.google.com&ctz=Europe%2FLondon) | [**Add Google Calendar**](https://calendar.google.com/calendar/u/0?cid=Y19yMHUwNzIwNjlrczFodGpna244ajRhOWRqMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) | [**Subscribe on YouTube**](https://youtube.com/playlist?list=PLDg_GiBbAx-mY3VFLPbLHcxo6wUjejAOC)
 
 - Episode #60: [Cilium - Community Edition](https://youtu.be/vJLW8V72vMk)
-  - 9am PT, 12pm ET, 5pm UK, 6pm Central Europe - 6th May 2022
+  - 9am PT, 12pm ET, 5pm UK, 6pm Central Europe - 2nd Sept 2022
   - [Convert to your timezone / get calendar link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=eBPF+%26+Cilium+Office+Hours&iso=20220902T09&p1=224&ah=1)
 
 ## Suggest a topic
