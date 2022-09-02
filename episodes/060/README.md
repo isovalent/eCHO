@@ -4,7 +4,7 @@
 
 ## Headlines
 
-- [eBPF Summit 2022]([https://ebpf.io/summit-2022](https://ebpf.io/summit-2022)/) is still open for registration
+- [eBPF Summit 2022](https://ebpf.io/summit-2022) is still open for registration
   - The schedule is now live!
 - [eCHO News - episode 13](http://isovalent-9197153.hs-sites.com/echo-news-episode-13-cilium-paid-mentorship-on-k3s-prometheus.-ebpf-for-anomaly-detection-and-service-mesh-acceleration)
   - Article/Tracy Pick - [HowTo use Cilium with a K3S cluster](https://www.spectrocloud.com/blog/getting-started-with-cilium-for-kubernetes-networking-and-observability/)
