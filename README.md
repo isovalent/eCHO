@@ -12,16 +12,14 @@ We also provide **[eCHO news](https://cilium.io/newsletter/)** as a bi-weekly co
 
 [**View Episode Calendar**](https://calendar.google.com/calendar/embed?src=c_r0u072069ks1htjgkn8j4a9dj0%40group.calendar.google.com&ctz=Europe%2FLondon) | [**Add Google Calendar**](https://calendar.google.com/calendar/u/0?cid=Y19yMHUwNzIwNjlrczFodGpna244ajRhOWRqMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) | [**Subscribe on YouTube**](https://youtube.com/playlist?list=PLDg_GiBbAx-mY3VFLPbLHcxo6wUjejAOC)
 
-- Episode #61: [Tanzu Community Edition with Cilium and Kube-VIP](https://youtu.be/ywa1wEQTajs)
-  - 11am PT, 2pm ET, 7pm UK, 8pm Central Europe - 9th September 2022
-  - [Convert to your timezone / get calendar link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=eCHO+-+eBPF+%26+Cilium+Office+Hours&iso=20220909T11&p1=224&ah=1)
-
 ## Suggest a topic
 
 Please [open an issue](https://github.com/isovalent/eCHO/issues/new) if you have an idea for a topic we should cover or a guest we should invite.
 
 ## Previous episodes
 
+- Episode #61: [Cilium - Tanzu Community Edition](https://youtu.be/ywa1wEQTajs) with [Duffie Cooley](https://twitter.com/mauilion) and [DaShaun Carter](https://twitter.com/dashaun)
+  - [Show notes](episodes/061)
 - Episode #60: [Clilium - Community Edition](https://youtu.be/vJLW8V72vMk) with [Tracy P Holmes](https://twitter.com/tracypholmes), [Bill Mulligan](https://twitter.com/breakawaybilly), and [Joe Stringer](https://twitter.com/joestringernz)
   - [Show notes](episodes/060)
 - Episode #59: [Dual Stack with Cilium](https://youtu.be/SwXvGeMy3Wg) with [Duffie Cooley](https://twitter.com/mauilion)
