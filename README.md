@@ -21,7 +21,34 @@ We also provide **[eCHO news](https://cilium.io/newsletter/)** as a bi-weekly co
 Please [open an issue](https://github.com/isovalent/eCHO/issues/new) if you have an idea for a topic we should cover or a guest we should invite.
 
 ## Previous episodes
-
+- Episode #69: [Cluster API and Cilium - Evaluating Cluster API
+  Distros](https://www.youtube.com/watch?v=oTCRZ-bt-Xo) with [Duffie
+  Cooley](https://twitter.com/mauilion) and [Nicholas
+  Lane](https://twitter.com/apinick)
+  - [Show notes](episodes/069)
+- Episode #68: [Cilium and Grafana!](https://youtu.be/HNxJyabrQfg) with [Liz
+  Rice](https://twitter.com/lizrice) and [Anna
+  Kapuścińska](https://twitter.com/lambdanis)
+  - [Show notes](episodes/068)
+- Episode #67: [Kubecon NA 2022
+  Recap!](https://www.youtube.com/watch?v=pitQjFnVKxc) with [Liz
+  Rice](https://twitter.com/lizrice) and [Tracy P
+  Holmes](https://twitter.com/tracypholmes)
+  - [Show notes](episodes/067)
+- Episode #66: [Cilium at Kubecon NA 2022](https://www.youtube.com/watch?v=WPfh_zEwVek) with [Duffie Cooley](https://twitter.com/mauilion)
+  - [Show notes](episodes/066)
+- Episode #65: [bpfd](https://www.youtube.com/watch?v=KskHG7jU1Q0) with [Liz
+  Rice](https://twitter.com/lizrice) and [Dave
+  Tucker](https://twitter.com/dave_tucker)
+  - [Show notes](episodes/065)
+- Episode #64: [eBPF Summit CTF #3](https://www.youtube.com/watch?v=CBUIy0FzxFY)
+  with [Liz Rice](https://twitter.com/lizrice) and [Duffie
+  Cooley](https://twitter.com/mauilion)
+  - [Show notes](episodes/064)
+- Episode #63: [Cilium BPF Recorder](https://www.youtube.com/watch?v=zh1y155aeJM) with [Duffie Cooley](https://twitter.com/mauilion)
+  - [Show notes](episodes/063)
+- Episode #62: [Linux Plumbers Conference BPF Track Recap](https://www.youtube.com/watch?v=gBVeoDy2xkA) with [Liz Rice](https://twitter.com/lizrice) and [Daniel Borkmann](https://github.com/borkmann)
+  - [Show notes](episodes/062)
 - Episode #61: [Cilium - Tanzu Community Edition](https://youtu.be/ywa1wEQTajs) with [Duffie Cooley](https://twitter.com/mauilion) and [DaShaun Carter](https://twitter.com/dashaun)
   - [Show notes](episodes/061)
 - Episode #60: [Clilium - Community Edition](https://youtu.be/vJLW8V72vMk) with [Tracy P Holmes](https://twitter.com/tracypholmes), [Bill Mulligan](https://twitter.com/breakawaybilly), and [Joe Stringer](https://twitter.com/joestringernz)
