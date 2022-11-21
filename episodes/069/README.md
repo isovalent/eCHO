@@ -1,6 +1,6 @@
 # Episode 69: evaluating cluster-api distributions. 
 
-{%youtube oTCRZ-bt-Xo %} 
+[YouTube](https://youtu.be/oTCRZ-bt-Xo)
 
 ## Headlines
 
