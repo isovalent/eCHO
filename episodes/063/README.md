@@ -1,6 +1,6 @@
 # Episode 63: cilium bpf recorder
 
-{%youtube zh1y155aeJM %} 
+[YouTube](https://youtu.be/zh1y155aeJM ) 
 
 ## Headlines
 

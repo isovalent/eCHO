@@ -1,6 +1,6 @@
 # Episode 49: Graceful Termination
 
-{%youtube 9GBxJMp6UkI%}
+[YouTube](https://youtu.be/9GBxJMp6UkI)
 
 # Headlines 
 

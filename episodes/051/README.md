@@ -1,6 +1,6 @@
 # Episode 51: Life of a Packet.
 
-{%youtube 0BKU6avwS98%}
+[YouTube](https://youtu.be/0BKU6avwS98)
 
 # Headlines 
 

@@ -1,4 +1,4 @@
-# Episode 69: evaluating cluster-api distributions. 
+# Episode 69: Evaluating cluster-api Distributions. 
 
 [YouTube](https://youtu.be/oTCRZ-bt-Xo)
 
