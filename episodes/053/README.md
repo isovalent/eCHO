@@ -1,6 +1,6 @@
 # Episode 53: Life of a Packet: Services.
 
-{%youtube SGfMEpjq07Q%}
+[YouTube](https://youtu.be/SGfMEpjq07Q)
 
 # Headlines 
 

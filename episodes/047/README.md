@@ -1,5 +1,5 @@
 # Episode 47: KubeCon EU 2022 Wrap Up
-{%youtube fTTBk4YFeyc%}
+[YouTube](https://youtu.be/fTTBk4YFeyc)
 
 with [Nicholas Lane](https://twitter.com/apinick) and [Bill Mulligan](https://twitter.com/breakawaybilly)
 

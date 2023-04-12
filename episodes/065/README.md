@@ -1,6 +1,6 @@
 # Episode 65 - bpfd
 
-
+[YouTube](https://youtu.be/KskHG7jU1Q0)
 
 ## Headlines
 

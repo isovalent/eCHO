@@ -1,7 +1,8 @@
-# Episode 66 - Kubecon Cloudnativecon detroit!
+# Episode 66 - Cilium at KubeCon NA 2022
 
+[YouTube](https://youtu.be/WPfh_zEwVek)
 
-## Kubecon!!!
+## KubeCon!!!
 
 * [What are we up to?](https://cilium.io/blog/2022/10/17/cilium-kubecon-na-talks/) 
 

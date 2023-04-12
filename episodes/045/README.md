@@ -1,5 +1,5 @@
 # Episode 45: KubeCon EU 2022 Preview
-{%youtube 0-mD02qYXHg %}
+[YouTube](https://youtu.be/0-mD02qYXHg )
 
 
 
