@@ -26,7 +26,7 @@ Please [open an issue](https://github.com/isovalent/eCHO/issues/new) if you have
   - [Show notes](episodes/086)
 - Episode #85: [Migrating to Cilium](https://youtu.be/-ypU-W-Sdhk) with [Duffie Cooley](https://twitter.com/mauilion)
   - [Show notes](episodes/085)
-- Episode #84: [Discussion with Deutsche Telekom](https://youtu.be/9Mm_7ny4qLg) with [Dan Finneran](https://twitter.com/thebsdbox), [Christopher Dziomba](https://twitter.com/), and [Vuk Gojnic](https://twitter.com/)
+- Episode #84: [Discussion with Deutsche Telekom](https://youtu.be/9Mm_7ny4qLg) with [Dan Finneran](https://twitter.com/thebsdbox), [Christopher Dziomba](https://twitter.com/@chd__) and [Vuk Gojnic](https://twitter.com/@vukgojnic)
   - [Show notes](episodes/084)
 - Episode #82: [Cilium 1.13 Release!🎉](https://youtu.be/QxaFixU-EPY) with [Dan Finneran](https://twitter.com/thebsdbox) and [Nico Vibert](https://twitter.com/nicovibert)
   - [Show notes](episodes/082)
