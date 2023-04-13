@@ -12,9 +12,9 @@ We also provide **[eCHO news](https://cilium.io/newsletter/)** as a bi-weekly co
 
 [**View Episode Calendar**](https://calendar.google.com/calendar/embed?src=c_r0u072069ks1htjgkn8j4a9dj0%40group.calendar.google.com&ctz=Europe%2FLondon) | [**Add Google Calendar**](https://calendar.google.com/calendar/u/0?cid=Y19yMHUwNzIwNjlrczFodGpna244ajRhOWRqMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) | [**Subscribe on YouTube**](https://youtube.com/playlist?list=PLDg_GiBbAx-mY3VFLPbLHcxo6wUjejAOC)
 
-
-  <!-- - 6am PT, 9am ET, 2pm UK, 3pm Central Europe - 25th November 2022
-  - [Convert to your timezone / get calendar link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=eCHO+-+eBPF+%26+Cilium+Office+Hours&iso=20221125T14&p1=136&ah=1) -->
+- Episode #87: [Advanced Gateway API Use Cases](https://youtu.be/YVO-jateXA0)
+  - 8am PT, 11am ET, 4pm UK, 5pm Central Europe - 14th April 2023
+  - [Convert to your timezone / get calendar link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=eCHO+-+eBPF+%26+Cilium+Office+Hours&iso=20230414T08&p1=224&ah=1)
 
 ## Suggest a topic
 
@@ -26,7 +26,7 @@ Please [open an issue](https://github.com/isovalent/eCHO/issues/new) if you have
   - [Show notes](episodes/086)
 - Episode #85: [Migrating to Cilium](https://youtu.be/-ypU-W-Sdhk) with [Duffie Cooley](https://twitter.com/mauilion)
   - [Show notes](episodes/085)
-- Episode #84: [Discussion with Deutsche Telekom](https://youtu.be/9Mm_7ny4qLg) with [Dan Finneran](https://twitter.com/thebsdbox), [Christopher Dziomba](https://twitter.com/@chd__) and [Vuk Gojnic](https://twitter.com/@vukgojnic)
+- Episode #84: [Discussion with Deutsche Telekom](https://youtu.be/9Mm_7ny4qLg) with [Dan Finneran](https://twitter.com/thebsdbox), [Christopher Dziomba](https://twitter.com/chd__) and [Vuk Gojnic](https://twitter.com/vukgojnic)
   - [Show notes](episodes/084)
 - Episode #82: [Cilium 1.13 Release!🎉](https://youtu.be/QxaFixU-EPY) with [Dan Finneran](https://twitter.com/thebsdbox) and [Nico Vibert](https://twitter.com/nicovibert)
   - [Show notes](episodes/082)
