@@ -12,16 +12,17 @@ We also provide **[eCHO news](https://cilium.io/newsletter/)** as a bi-weekly co
 
 [**View Episode Calendar**](https://calendar.google.com/calendar/embed?src=c_r0u072069ks1htjgkn8j4a9dj0%40group.calendar.google.com&ctz=Europe%2FLondon) | [**Add Google Calendar**](https://calendar.google.com/calendar/u/0?cid=Y19yMHUwNzIwNjlrczFodGpna244ajRhOWRqMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) | [**Subscribe on YouTube**](https://youtube.com/playlist?list=PLDg_GiBbAx-mY3VFLPbLHcxo6wUjejAOC)
 
-- Episode #87: [Advanced Gateway API Use Cases](https://youtu.be/YVO-jateXA0)
+<!-- - Episode #87: [Advanced Gateway API Use Cases](https://youtu.be/YVO-jateXA0)
   - 8am PT, 11am ET, 4pm UK, 5pm Central Europe - 14th April 2023
-  - [Convert to your timezone / get calendar link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=eCHO+-+eBPF+%26+Cilium+Office+Hours&iso=20230414T08&p1=224&ah=1)
+  - [Convert to your timezone / get calendar link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=eCHO+-+eBPF+%26+Cilium+Office+Hours&iso=20230414T08&p1=224&ah=1) -->
 
 ## Suggest a topic
 
 Please [open an issue](https://github.com/isovalent/eCHO/issues/new) if you have an idea for a topic we should cover or a guest we should invite.
 
 ## Previous episodes
-
+- Episode #87: [Advanced Gateway API Use Cases](https://youtu.be/YVO-jateXA0) with [Jef Spaleta](https://twitter.com/jspaleta) and [Nico Vibert](https://twitter.com/nicovibert)
+  - [Show notes](episodes/087)
 - Episode #86: [Cilium En Français!](https://youtu.be/WtGYlsAMq4A) with [Nico Vibert](https://twitter.com/nicovibert) and [Raphaël Pinson](https://twitter.com/raphink)
   - [Show notes](episodes/086)
 - Episode #85: [Migrating to Cilium](https://youtu.be/-ypU-W-Sdhk) with [Duffie Cooley](https://twitter.com/mauilion)
