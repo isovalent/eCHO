@@ -12,15 +12,31 @@ We also provide **[eCHO news](https://cilium.io/newsletter/)** as a bi-weekly co
 
 [**View Episode Calendar**](https://calendar.google.com/calendar/embed?src=c_r0u072069ks1htjgkn8j4a9dj0%40group.calendar.google.com&ctz=Europe%2FLondon) | [**Add Google Calendar**](https://calendar.google.com/calendar/u/0?cid=Y19yMHUwNzIwNjlrczFodGpna244ajRhOWRqMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) | [**Subscribe on YouTube**](https://youtube.com/playlist?list=PLDg_GiBbAx-mY3VFLPbLHcxo6wUjejAOC)
 
-<!-- - Episode #87: [Advanced Gateway API Use Cases](https://youtu.be/YVO-jateXA0)
-  - 8am PT, 11am ET, 4pm UK, 5pm Central Europe - 14th April 2023
-  - [Convert to your timezone / get calendar link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=eCHO+-+eBPF+%26+Cilium+Office+Hours&iso=20230414T08&p1=224&ah=1) -->
+Episode #96: [Cluster API and Virtink pt. 2](https://www.youtube.com/watch?v=Sv7XfmT1E-Y)
+  - 11am PT, 8pm CEST, 7pm UK, 5pm Central Europe - 23rd June 2023
+  - [Convert to your timezone / get calendar link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=eCHO+-+eBPF+%26+Cilium+Office+Hours&iso=20230623T11&p1=224&ah=1)
 
 ## Suggest a topic
 
 Please [open an issue](https://github.com/isovalent/eCHO/issues/new) if you have an idea for a topic we should cover or a guest we should invite.
 
 ## Previous episodes
+- Episode #95: [Cilium 1.14 Sneak Peak](https://youtu.be/ZDZkd3OSgds) with [Liz Rice](https://twitter.com/lizrice) and [Nico Vibert](https://twitter.com/nicovibert)
+  - [Show notes](episodes/095)
+- Episode #94: [New Cluster API provider virtink](https://youtu.be/HVqQhMRpUR4) with [Duffie Cooley](https://twitter.com/mauilion)
+  - [Show notes](episodes/094)
+- Episode #93: [BPF Signing](https://youtu.be/8mTWsFUAURE) with [Jef Spaleta](https://twitter.com/jspaleta) and [Lorenz Bauer](https://www.linkedin.com/in/lorenzbauer/)
+  - [Show notes](episodes/093)
+- Episode #92: [Cilium External Workloads](https://youtu.be/bbmtsBsZpSo) with [Jef Spaleta](https://twitter.com/jspaleta)
+  - [Show notes](episodes/092)
+- Episode #91: [Announcing services at L2](https://youtu.be/DdWksYq5Pv4) with [Liz Rice](https://twitter.com/lizrice) and [Dylan Reimerink](https://www.linkedin.com/in/dylan-reimerink-64ba1610a)
+  - [Show notes](episodes/091)
+- Episode #90: [Cassandra and cilium clustermesh](https://youtu.be/IdKa4_TFy00) with [Duffie Cooley](https://twitter.com/mauilion)
+  - [Show notes](episodes/090)
+- Episode #89: [Stack walking](https://youtu.be/Dxno5UpLbZ0) with [Liz Rice](https://twitter.com/lizrice) and [Javier Honduvilla](https://twitter.com/javierhonduco)
+  - [Show notes](episodes/089)
+- Episode #88: [Kubecon and Cilium Con Wrap-up](https://youtu.be/jgM2ZAxl1G8) with [Duffie Cooley](https://twitter.com/mauilion)
+  - [Show notes](episodes/088)
 - Episode #87: [Advanced Gateway API Use Cases](https://youtu.be/YVO-jateXA0) with [Jef Spaleta](https://twitter.com/jspaleta) and [Nico Vibert](https://twitter.com/nicovibert)
   - [Show notes](episodes/087)
 - Episode #86: [Cilium En Français!](https://youtu.be/WtGYlsAMq4A) with [Nico Vibert](https://twitter.com/nicovibert) and [Raphaël Pinson](https://twitter.com/raphink)
@@ -48,7 +64,7 @@ Please [open an issue](https://github.com/isovalent/eCHO/issues/new) if you have
 - Episode #74: [eBPF Tail Calls](https://youtu.be/3qLXw3E0YWg) with [Liz Rice](https://twitter.com/lizrice) and [Dan Finneran](https://twitter.com/thebsdbox)
   - [Show notes](episodes/074)
 - Episode #73: [Automating Clusters and Cilium with Flux](https://youtu.be/al049I2j1jk) with [Duffie Cooley](https://twitter.com/mauilion)
-  - [Show notes](episodes/073)     
+  - [Show notes](episodes/073)
 - Episode #72: [Cilium Ingress with kube-vip and the new BGP and LB-IPAM features in Cilium](https://youtu.be/t5nP_JT8qUg) with [Dan Finneran](https://twitter.com/thebsdbox) and Dylan Reimerink
   - [Show notes](episodes/072)
 - Episode #71: [Cilium CLI Helm Integration!](https://youtu.be/vDCNNz5VQnE) with [Duffie Cooley](https://twitter.com/mauilion)
@@ -99,25 +115,25 @@ Please [open an issue](https://github.com/isovalent/eCHO/issues/new) if you have
 - Episode #49: [Graceful Termination](https://youtu.be/9GBxJMp6UkI) with [Duffie Cooley](https://twitter.com/mauilion)
   - [Show notes](episodes/049)
 - Episode #48: [Pixie](https://youtu.be/j090RUVuKKk) with [Zain Asgar](https://twitter.com/zainasgar) and [Omid Azizi](https://twitter.com/oazizi)
-  - [Show notes](/episodes/048)   
+  - [Show notes](/episodes/048)
 - Episode #47: [KubeCon EU wrap-up](https://youtu.be/fTTBk4YFeyc) with [Nicholas Lane](https://twitter.com/apinick) and [Bill Mulligan](https://twitter.com/breakawaybilly)
-  - [Show notes](/episodes/047)  
+  - [Show notes](/episodes/047)
 - Episode #46: [Security Observability and Runtime Enforcement with Cilium Tetragon](https://youtu.be/1rpykZ8FUvs) with [Liz Rice](https://twitter.com/lizrice) and [Thomas Graf](https://twitter.com/tgraf__)
-  - [Show notes](/episodes/046)  
+  - [Show notes](/episodes/046)
 - Episode #45: [KubeCon EU Preview](https://youtu.be/0-mD02qYXHg) with [Duffie
   Cooley](https://twitter.com/mauilion) and [Nicholas Lane](https://twitter.com/apinick)
-  - [Show notes](/episodes/045)  
+  - [Show notes](/episodes/045)
 - Episode #44: [The Inside Track on Sidecarless Service Mesh](https://youtu.be/XpccICEYqiA) with [Thomas Graf](https://twitter.com/tgraf__)
-  - [Show notes](/episodes/044)  
+  - [Show notes](/episodes/044)
 - Episode #43: [Deepdive FQDN Policy](https://youtu.be/iJ98HRZi8hM) with [Duffie
   Cooley](https://twitter.com/mauilion)
-  - [Show notes](/episodes/043)  
+  - [Show notes](/episodes/043)
 - Episode #42: [Multus and Cilium](https://youtu.be/bIYZrSoGTFg) with [Duffie
   Cooley](https://twitter.com/mauilion)
-  - [Show notes](/episodes/042)  
+  - [Show notes](/episodes/042)
 - Episode #41: [Cilium Cluster Mesh](https://youtu.be/VBOONHW65NU) with [Liz
   Rice](https://twitter.com/lizrice)
-  - [Show notes](/episodes/041)  
+  - [Show notes](/episodes/041)
 - Episode #40: [Host firewall](https://youtu.be/GLLLcz398K0) with [Liz Rice](https://twitter.com/lizrice)
   - [Show notes and config examples](/episodes/040)
 - Episode #39: [Local redirect policy](https://youtu.be/BT_gdlhjiQc) with Duffie Cooley
@@ -167,7 +183,7 @@ Please [open an issue](https://github.com/isovalent/eCHO/issues/new) if you have
 - Episode #15: [Tracee](https://youtu.be/aOgidMoPz9A) with [Itay Shakury](https://twitter.com/itaysk)
   - [Show notes](/episodes/015)
 - Episode #14: [netkat](https://youtu.be/yabzjJMdI08) with [Antonio Ojea](https://twitter.com/itsuugo)
-  - [Show notes](/episodes/014)  
+  - [Show notes](/episodes/014)
 - Episode #13: [XDP Tutorial](https://youtu.be/YUI78vC4qSQ) with [Liz Rice](https://twitter.com/lizrice)
   - [Show notes](/episodes/013)
 - Episode #12: [kubectl trace](https://youtu.be/J-fyQ3H4hLw)
