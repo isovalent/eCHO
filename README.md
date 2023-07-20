@@ -12,15 +12,20 @@ We also provide **[eCHO news](https://cilium.io/newsletter/)** as a bi-weekly co
 
 [**View Episode Calendar**](https://calendar.google.com/calendar/embed?src=c_r0u072069ks1htjgkn8j4a9dj0%40group.calendar.google.com&ctz=Europe%2FLondon) | [**Add Google Calendar**](https://calendar.google.com/calendar/u/0?cid=Y19yMHUwNzIwNjlrczFodGpna244ajRhOWRqMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) | [**Subscribe on YouTube**](https://youtube.com/playlist?list=PLDg_GiBbAx-mY3VFLPbLHcxo6wUjejAOC)
 
-Episode #96: [Cluster API and Virtink pt. 2](https://www.youtube.com/watch?v=Sv7XfmT1E-Y)
-  - 11am PT, 8pm CEST, 7pm UK, 5pm Central Europe - 23rd June 2023
-  - [Convert to your timezone / get calendar link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=eCHO+-+eBPF+%26+Cilium+Office+Hours&iso=20230623T11&p1=224&ah=1)
+Episode #99: [Explain Kubernetes Networking and Cilium to Network Engineers](https://www.youtube.com/watch?v=kMPKzb_kW68)
+  - 9am ET, 3pm CEST, 2pm UK - 21st July 2023
+  - [Convert to your timezone / get calendar link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=eHO+-+eBPF+%26+Cilium+Office+Hours&iso=20230721T14&p1=136&ah=1)
 
 ## Suggest a topic
 
 Please [open an issue](https://github.com/isovalent/eCHO/issues/new) if you have an idea for a topic we should cover or a guest we should invite.
 
 ## Previous episodes
+- Episode #98: [Exploring the bandwidth manager with Cilium](https://www.youtube.com/watch?v=-JnXe8vAUKQ) with [Duffie Cooley](https://twitter.com/mauilion)
+- Episode #97: [Gateway API Updates](https://www.youtube.com/live/i_2Od7vcsdY) with [Dan Finneran](https://twitter.com/thebsdbox), [Shane Utt](https://twitter.com/ShaneUtt)
+  - [Show notes](episodes/097)
+- Episode #96: [Cluster API and Virtink pt. 2](https://www.youtube.com/live/Sv7XfmT1E-Y) with [Duffie Cooley](https://twitter.com/mauilion)
+  - [Show notes](episodes/096)
 - Episode #95: [Cilium 1.14 Sneak Peak](https://youtu.be/ZDZkd3OSgds) with [Liz Rice](https://twitter.com/lizrice) and [Nico Vibert](https://twitter.com/nicovibert)
   - [Show notes](episodes/095)
 - Episode #94: [New Cluster API provider virtink](https://youtu.be/HVqQhMRpUR4) with [Duffie Cooley](https://twitter.com/mauilion)
