@@ -22,6 +22,7 @@ Please [open an issue](https://github.com/isovalent/eCHO/issues/new) if you have
 
 ## Previous episodes
 - Episode #98: [Exploring the bandwidth manager with Cilium](https://www.youtube.com/watch?v=-JnXe8vAUKQ) with [Duffie Cooley](https://twitter.com/mauilion)
+  - [Show notes](episodes/097)
 - Episode #97: [Gateway API Updates](https://www.youtube.com/live/i_2Od7vcsdY) with [Dan Finneran](https://twitter.com/thebsdbox), [Shane Utt](https://twitter.com/ShaneUtt)
   - [Show notes](episodes/097)
 - Episode #96: [Cluster API and Virtink pt. 2](https://www.youtube.com/live/Sv7XfmT1E-Y) with [Duffie Cooley](https://twitter.com/mauilion)
@@ -75,7 +76,7 @@ Please [open an issue](https://github.com/isovalent/eCHO/issues/new) if you have
 - Episode #71: [Cilium CLI Helm Integration!](https://youtu.be/vDCNNz5VQnE) with [Duffie Cooley](https://twitter.com/mauilion)
   - [Show notes](episodes/071)
 - Episode #70: [Azure CNI powered by Cilium](https://youtu.be/8it8Hm2F_GM) with [Liz Rice](https://twitter.com/lizrice) and [Nico Vibert](https://twitter.com/nicovibert)
-- [Show notes](episodes/070)
+  - [Show notes](episodes/070)
 - Episode #69: [Cluster API and Cilium - Evaluating Cluster API Distros](https://www.youtube.com/watch?v=oTCRZ-bt-Xo) with [Duffie Cooley](https://twitter.com/mauilion) and [Nicholas Lane](https://twitter.com/apinick)
   - [Show notes](episodes/069)
 - Episode #68: [Cilium and Grafana!](https://youtu.be/HNxJyabrQfg) with [Liz Rice](https://twitter.com/lizrice) and [Anna Kapuścińska](https://twitter.com/lambdanis)
