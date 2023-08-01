@@ -12,17 +12,21 @@ We also provide **[eCHO news](https://cilium.io/newsletter/)** as a bi-weekly co
 
 [**View Episode Calendar**](https://calendar.google.com/calendar/embed?src=c_r0u072069ks1htjgkn8j4a9dj0%40group.calendar.google.com&ctz=Europe%2FLondon) | [**Add Google Calendar**](https://calendar.google.com/calendar/u/0?cid=Y19yMHUwNzIwNjlrczFodGpna244ajRhOWRqMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) | [**Subscribe on YouTube**](https://youtube.com/playlist?list=PLDg_GiBbAx-mY3VFLPbLHcxo6wUjejAOC)
 
-Episode #99: [Explain Kubernetes Networking and Cilium to Network Engineers](https://www.youtube.com/watch?v=kMPKzb_kW68)
+Episode #101: [Explain Kubernetes Networking and Cilium to Network Engineers](https://www.youtube.com/watch?v=kMPKzb_kW68)
   - 9am ET, 3pm CEST, 2pm UK - 21st July 2023
-  - [Convert to your timezone / get calendar link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=eHO+-+eBPF+%26+Cilium+Office+Hours&iso=20230721T14&p1=136&ah=1)
+  - [Convert to your timezone / get calendar link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=eHO+-+eBPF+%26+Cilium+Office+Hours&iso=20230804T14&p1=136&ah=1)
 
 ## Suggest a topic
 
 Please [open an issue](https://github.com/isovalent/eCHO/issues/new) if you have an idea for a topic we should cover or a guest we should invite.
 
 ## Previous episodes
+- Episode #100: [Cilium 1.14 and next-gen mutual authentication](https://youtu.be/BWjDlynXhzg) with [Liz Rice](https://twitter.com/lizrice), [Thomas Graf](https://twitter.com/tgraf__) and [Maartje Eyskens](https://blahaj.social/@maartje)
+  - [Show notes](episodes/100)
+- Episode #99: [Explain Kubernetes Networking and Cilium to Network Engineers](https://www.youtube.com/watch?v=kMPKzb_kW68) with [Nico Vibert](https://twitter.com/nicovibert) and and [Raphaël Pinson](https://twitter.com/raphink)
+  - [Show notes](episodes/099)
 - Episode #98: [Exploring the bandwidth manager with Cilium](https://www.youtube.com/watch?v=-JnXe8vAUKQ) with [Duffie Cooley](https://twitter.com/mauilion)
-  - [Show notes](episodes/097)
+  - [Show notes](episodes/098)
 - Episode #97: [Gateway API Updates](https://www.youtube.com/live/i_2Od7vcsdY) with [Dan Finneran](https://twitter.com/thebsdbox), [Shane Utt](https://twitter.com/ShaneUtt)
   - [Show notes](episodes/097)
 - Episode #96: [Cluster API and Virtink pt. 2](https://www.youtube.com/live/Sv7XfmT1E-Y) with [Duffie Cooley](https://twitter.com/mauilion)
