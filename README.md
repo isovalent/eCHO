@@ -12,7 +12,7 @@ We also provide **[eCHO news](https://cilium.io/newsletter/)** as a bi-weekly co
 
 [**View Episode Calendar**](https://calendar.google.com/calendar/embed?src=c_r0u072069ks1htjgkn8j4a9dj0%40group.calendar.google.com&ctz=Europe%2FLondon) | [**Add Google Calendar**](https://calendar.google.com/calendar/u/0?cid=Y19yMHUwNzIwNjlrczFodGpna244ajRhOWRqMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) | [**Subscribe on YouTube**](https://youtube.com/playlist?list=PLDg_GiBbAx-mY3VFLPbLHcxo6wUjejAOC)
 
-Episode #101: [Explain Kubernetes Networking and Cilium to Network Engineers](https://www.youtube.com/watch?v=kMPKzb_kW68)
+Episode #101: [More BGP fun with Cilium](https://www.youtube.com/watch?v=Tv0R6VxyWhc)
   - 9am ET, 3pm CEST, 2pm UK - 21st July 2023
   - [Convert to your timezone / get calendar link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=eHO+-+eBPF+%26+Cilium+Office+Hours&iso=20230804T14&p1=136&ah=1)
 
