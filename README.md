@@ -12,15 +12,37 @@ We also provide **[eCHO news](https://cilium.io/newsletter/)** as a bi-weekly co
 
 [**View Episode Calendar**](https://calendar.google.com/calendar/embed?src=c_r0u072069ks1htjgkn8j4a9dj0%40group.calendar.google.com&ctz=Europe%2FLondon) | [**Add Google Calendar**](https://calendar.google.com/calendar/u/0?cid=Y19yMHUwNzIwNjlrczFodGpna244ajRhOWRqMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) | [**Subscribe on YouTube**](https://youtube.com/playlist?list=PLDg_GiBbAx-mY3VFLPbLHcxo6wUjejAOC)
 
-Episode #101: [More BGP fun with Cilium](https://www.youtube.com/watch?v=Tv0R6VxyWhc)
-  - 9am ET, 3pm CEST, 2pm UK - 21st July 2023
-  - [Convert to your timezone / get calendar link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=eHO+-+eBPF+%26+Cilium+Office+Hours&iso=20230804T14&p1=136&ah=1)
+Episode #114: [Running Cilium in home labs](https://youtube.com/live/qAyMSh0lizE)
+  - 9am ET, 3pm CEST, 1pm UK - 3rd November 2023
+  - [Convert to your timezone / get calendar link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=eHO+-+eBPF+%26+Cilium+Office+Hours&iso=20231103T14&p1=136&ah=1)
 
 ## Suggest a topic
 
 Please [open an issue](https://github.com/isovalent/eCHO/issues/new) if you have an idea for a topic we should cover or a guest we should invite.
 
 ## Previous episodes
+- Episode #113: [Come join us at Kubecon/CloudNativeCon 2023 in Chicago](https://www.youtube.com/watch?v=8eMTJhJbDoA) with [Duffie Cooley](https://twitter.com/mauilion)
+- Episode #112: [ebeenix - eBPF and Nix](https://youtu.be/dfdc-aoMiy8) with with [Liz Rice](https://twitter.com/lizrice), [Mark Pashmfouroush](https://twitter.com/markpash)
+  - [Show notes](episodes/112)
+- Episode #111: [Using Egress Gateway Policy with WireGuard](https://www.youtube.com/watch?v=CU7SYRub9NI) with [Jef Spaleta](https://twitter.com/jspaleta)
+- Episode #110: [More fun with the Cilium Gateway API](https://youtu.be/dfdc-aoMiy8) with [Nico Vibert](https://twitter.com/nicovibert)
+  - [Show notes](episodes/110)
+- Episode #109: [Live Migration from Azure Kubenet to Cilium](https://www.youtube.com/watch?v=2FZ2k2KV5F8) with [Duffie Cooley](https://twitter.com/mauilion)
+  - [Show notes](episodes/109)
+- Episode #108: [eBPF Test Coverage with CoverBee](https://www.youtube.com/watch?v=IUgPUjUhh4o) with [Liz Rice](https://twitter.com/lizrice), Dylan Reimerink
+- Episode #107: [eBPF Summit CTF Walkthrough](https://www.youtube.com/watch?v=PYeRuRtI55M) with [Dan Finneran](https://twitter.com/thebsdbox), [Liz Rice](https://twitter.com/lizrice)
+  - [Show notes](episodes/107)
+- Episode #106: [Live Migration to Cilium in AWS](https://www.youtube.com/watch?v=kurMo3r4Ol4) with [Duffie Cooley](https://twitter.com/mauilion)
+  - [Show notes](episodes/106)
+- Episode #105: [eBPFMon](https://www.youtube.com/watch?v=HeGOHQoZNKc) with [Dan Finneran](https://twitter.com/thebsdbox),
+  - [Show notes](episodes/105)
+- Episode #104: [Mutual Authentication hands-on Lab](https://www.youtube.com/watch?v=UsHUPeByrVE) with [Duffie Cooley](https://twitter.com/mauilion)
+  - [Show notes](episodes/104)
+- Episode #103: [Networking improvements in Tetragon](https://www.youtube.com/watch?v=CiNnro9o-LM) with [Liz Rice](https://twitter.com/lizrice), [Kevin Sheldrake](https://twitter.com/kevsecurity)
+  - [Show notes](episodes/103)
+- Episode #102: [Mutual Authentication Hands on Lab with Duffie](https://youtube.com/live/CFcmN2aSoKUg) with [Duffie Cooley](https://twitter.com/mauilion)
+- Episode #101: [More BGP fun with Cilium](https://youtube.com/live/Tv0R6VxyWhc) with [Nico Vibert](https://twitter.com/nicovibert)
+  - [Show notes](episodes/101)
 - Episode #100: [Cilium 1.14 and next-gen mutual authentication](https://youtu.be/BWjDlynXhzg) with [Liz Rice](https://twitter.com/lizrice), [Thomas Graf](https://twitter.com/tgraf__) and [Maartje Eyskens](https://blahaj.social/@maartje)
   - [Show notes](episodes/100)
 - Episode #99: [Explain Kubernetes Networking and Cilium to Network Engineers](https://www.youtube.com/watch?v=kMPKzb_kW68) with [Nico Vibert](https://twitter.com/nicovibert) and and [Raphaël Pinson](https://twitter.com/raphink)
