@@ -22,7 +22,7 @@ Please [open an issue](https://github.com/isovalent/eCHO/issues/new) if you have
 
 ## Previous episodes
 - Episode #113: [Come join us at Kubecon/CloudNativeCon 2023 in Chicago](https://www.youtube.com/watch?v=8eMTJhJbDoA) with [Duffie Cooley](https://twitter.com/mauilion)
-- Episode #112: [ebeenix - eBPF and Nix](https://youtu.be/dfdc-aoMiy8) with with [Liz Rice](https://twitter.com/lizrice), [Mark Pashmfouroush](https://twitter.com/markpash)
+- Episode #112: [ebeenix - eBPF and Nix](https://www.youtube.com/watch?v=UTGnhsmqf5A) with with [Liz Rice](https://twitter.com/lizrice), [Mark Pashmfouroush](https://twitter.com/markpash)
   - [Show notes](episodes/112)
 - Episode #111: [Using Egress Gateway Policy with WireGuard](https://www.youtube.com/watch?v=CU7SYRub9NI) with [Jef Spaleta](https://twitter.com/jspaleta)
 - Episode #110: [More fun with the Cilium Gateway API](https://youtu.be/dfdc-aoMiy8) with [Nico Vibert](https://twitter.com/nicovibert)
