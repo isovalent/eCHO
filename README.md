@@ -200,7 +200,7 @@ Please [open an issue](https://github.com/isovalent/eCHO/issues/new) if you have
 - Episode #22: [EKS Anywhere](https://youtu.be/yAoZi89CZ5o) with [Justin Garrison](https://twitter.com/rothgar)
 - Episode #21 had to be cancelled with late notice (sorry!)
 - Episode #20: [conntracker](https://youtu.be/NuXo8waYKzA) with [Rafael David Tinco](https://twitter.com/rafaeldtinoco)
-  - [Show notes](/epsisodes/020)
+  - [Show notes](/episodes/020)
 - Episode #19: [Inspektor Gadget](https://youtu.be/RZ2qNm_vlUc) with [Marga Manterola](https://twitter.com/marga_manterola)
   - [Show notes](/episodes/019)
 - Episode #18: [eBPF Capture The Flag part #3](https://youtu.be/l18YnO2b7mM)
