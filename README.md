@@ -12,15 +12,46 @@ We also provide **[eCHO news](https://cilium.io/newsletter/)** as a bi-weekly co
 
 [**View Episode Calendar**](https://calendar.google.com/calendar/embed?src=c_r0u072069ks1htjgkn8j4a9dj0%40group.calendar.google.com&ctz=Europe%2FLondon) | [**Add Google Calendar**](https://calendar.google.com/calendar/u/0?cid=Y19yMHUwNzIwNjlrczFodGpna244ajRhOWRqMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) | [**Subscribe on YouTube**](https://youtube.com/playlist?list=PLDg_GiBbAx-mY3VFLPbLHcxo6wUjejAOC)
 
-Episode #114: [Running Cilium in home labs](https://youtube.com/live/qAyMSh0lizE)
-  - 9am ET, 3pm CEST, 1pm UK - 3rd November 2023
-  - [Convert to your timezone / get calendar link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=eHO+-+eBPF+%26+Cilium+Office+Hours&iso=20231103T14&p1=136&ah=1)
+Episode #130: TBA
+  - 10 am ET, 4 pm CEST, 2 pm UK - TBA
+  <!-- - [Convert to your timezone / get calendar link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=eHO+-+eBPF+%26+Cilium+Office+Hours&iso=20231103T14&p1=136&ah=1) -->
 
 ## Suggest a topic
 
 Please [open an issue](https://github.com/isovalent/eCHO/issues/new) if you have an idea for a topic we should cover or a guest we should invite.
 
 ## Previous episodes
+- Episode #129: [KubeCon EU 2024]() with [Liz Rice](https://twitter.com/lizrice) and [Bill Mulligan](https://twitter.com/breakawaybilly)
+  - [Show notes](episode/129)
+- Episode #128: [Deploying cilium with Pulumi!](https://youtu.be/1oF_bfLk8sE) with [Duffie Cooley](https://twitter.com/mauilion) and [Kat Morgan](https://twitter.com/usrbinkat)
+  - [Show notes](episode/128)
+- Episode #127: [Cilium & Envoy](https://youtu.be/HEwruycGbCU) with [Raphaël Pinson](https://twitter.com/raphink) and [Nico Vibert](https://twitter.com/nicovibert)
+  - [Show notes](episode/127)
+- Episode #126: [Migrating from Calico to Cilium](https://www.youtube.com/watch?v=Dl-fvHvfrqI) with [Duffie Cooley](https://twitter.com/mauilion)
+  - [Show notes](episode/126)
+- Episode #125: [Meet the Maintainer, CNI, containerd, SIG-Networking and the KNI](https://youtu.be/zuUmYU1zI2Q) with [Dan Finneran](https://twitter.com/thebsdbox) and Michael Zappa
+  - [Show notes](episode/125)
+- Episode #124: [Automating Cilium Install with Terrafom]() with [Raphaël Pinson](https://twitter.com/raphink) & [Joseph Ligier](https://twitter.com/littlejo83)
+  - [Show notes](episode/124)
+- Episode #123: [Cilium 1.15: Part 2](https://www.youtube.com/live/o2-kQ6jwLLw) with [Nico Vibert](https://twitter.com/nicovibert)
+- Episode #122: [Cilium 1.15: part 1](https://youtu.be/tR1P4gS-9-M) with [Duffie Cooley](https://twitter.com/mauilion), [Joe Stringer](https://fosstodon.org/@joestringer) and Ryan Drew
+  - [Show notes](episode/122)
+- Episode #121: [eBPF Coding Challenges](https://www.youtube.com/live/TtoeaunixBY) with [Liz Rice](https://twitter.com/lizrice) and [Dan Finneran](https://twitter.com/thebsdbox)
+  - [Show notes](episode/121)
+- Episode #120: [cilium clustermesh with DNS](https://youtu.be/P1bImQYhHYc) with [Duffie Cooley](https://twitter.com/mauilion)
+  - [Show notes](episode/120)
+- Episode #119: [bpftune and reinforcement learning](https://youtu.be/j9m1Tp0C_wE) with [Liz Rice](https://twitter.com/lizrice) and Alan Maguire
+  - [Show notes](episode/119)
+- Episode #118: [Exploring EKS prefix delegation](https://youtu.be/j9m1Tp0C_wE) with [Duffie Cooley](https://twitter.com/mauilion)
+  - [Show notes](episode/118)
+- Episode #117: [A Tour of the Cilium Helm Values](https://youtu.be/ni0Uw4WLHYo) with [Dan Finneran](https://twitter.com/thebsdbox), [Nico Vibert](https://twitter.com/nicovibert) and James Laverack
+  - [Show notes](episode/117)
+- Episode #116: [Revealing Security Blind Spots with Tetragon](https://youtu.be/WZXC5MLo7HI) with Piotr Jabłoński
+  - [Show notes](episode/116)
+- Episode #115: [KubeCon/CiliumCon NA Review](https://youtu.be/mKp5aa8XfiU) with [Liz Rice](https://twitter.com/lizrice) and [Dan Finneran](https://twitter.com/thebsdbox)
+  - [Show notes](episode/115)
+- Episode #114: [Running Cilium in home labs](https://youtube.com/live/qAyMSh0lizE) with [Nico Vibert](https://twitter.com/nicovibert), Maartje Eyksens and [Dario Mader](https://twitter.com/dari0x)
+  - [Show notes](episodes/114)
 - Episode #113: [Come join us at Kubecon/CloudNativeCon 2023 in Chicago](https://www.youtube.com/watch?v=8eMTJhJbDoA) with [Duffie Cooley](https://twitter.com/mauilion)
 - Episode #112: [ebeenix - eBPF and Nix](https://www.youtube.com/watch?v=UTGnhsmqf5A) with with [Liz Rice](https://twitter.com/lizrice), [Mark Pashmfouroush](https://twitter.com/markpash)
   - [Show notes](episodes/112)
