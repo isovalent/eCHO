@@ -12,16 +12,39 @@ We also provide **[eCHO news](https://cilium.io/newsletter/)** as a bi-weekly co
 
 [**View Episode Calendar**](https://calendar.google.com/calendar/embed?src=c_r0u072069ks1htjgkn8j4a9dj0%40group.calendar.google.com&ctz=Europe%2FLondon) | [**Add Google Calendar**](https://calendar.google.com/calendar/u/0?cid=Y19yMHUwNzIwNjlrczFodGpna244ajRhOWRqMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) | [**Subscribe on YouTube**](https://youtube.com/playlist?list=PLDg_GiBbAx-mY3VFLPbLHcxo6wUjejAOC)
 
-Episode #130: TBA
-  - 10 am ET, 4 pm CEST, 2 pm UK - TBA
-  <!-- - [Convert to your timezone / get calendar link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=eHO+-+eBPF+%26+Cilium+Office+Hours&iso=20231103T14&p1=136&ah=1) -->
+Episode #144: API Gateways on Cilium
+  - 10 am ET, 4 pm CEST, 2 pm UK
+  - [Convert to your timezone / get calendar link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=eHO+-+eBPF+%26+Cilium+Office+Hours&iso=20240712T14&p1=136&ah=1)
 
 ## Suggest a topic
 
 Please [open an issue](https://github.com/isovalent/eCHO/issues/new) if you have an idea for a topic we should cover or a guest we should invite.
 
 ## Previous episodes
-- Episode #129: [KubeCon EU 2024]() with [Liz Rice](https://twitter.com/lizrice) and [Bill Mulligan](https://twitter.com/breakawaybilly)
+- Episode #143: [Sailing The Seas With Tetragon](https://www.youtube.com/watch?v=2ZlaVl8ZBnM) with [Duffie Cooley](https://twitter.com/mauilion)
+- Episode #142: [Seznam x Cilium Live Case Study](https://www.youtube.com/watch?v=zPfVH6BNups) with [Shedrack Akintayo](https://twitter.com/coder_blvck) and Ondrej Blazek
+  - [Show notes](episode/142)
+- Episode #141: [First look at Cilium's Gateway API for Service Mesh Implementation](https://www.youtube.com/watch?v=OAftVdKllak) with [Jef Spaleta](https://twitter.com/jspaleta)
+- Episode #140: [Cilium 1.16 with netkit devices](https://www.youtube.com/watch?v=hldsOlLCO_Y) with [Liz Rice](https://twitter.com/lizrice) and Daniel Borkmann
+  - [Show notes](episode/140)
+- Episode #139: [Cilium Multi Network and Kubevirt](https://www.youtube.com/watch?v=v-x4rPMx9jo) with [Duffie Cooley](https://twitter.com/mauilion)
+  - [Show notes](episode/139)
+- Episode #138: [Cilium Gateway API use cases](https://www.youtube.com/watch?v=v-x4rPMx9jo) with [Dan Finneran](https://twitter.com/thebsdbox) and James Laverack
+  - [Show notes](episode/138)
+- Episode #137: [A review of Cilium Network Policy](https://www.youtube.com/watch?v=2XisJm0e8fc&t=2s) with [Jef Spaleta](https://twitter.com/jspaleta)
+- Episode #136: [How does eBPF actually work?](https://youtu.be/cy1t5fBBt7E?si=4KvkaMB-0keyq5cK) with [Dan Finneran](https://twitter.com/thebsdbox) and James Laverack
+  - [Show notes](episode/136)
+- Episode #135: [KCD New York overview and upcoming events!](https://www.youtube.com/watch?v=rCkXFd_FB70) with [Duffie Cooley](https://twitter.com/mauilion)
+  - [Show notes](episode/135)
+- Episode #134: [Tetragon in Action](https://www.youtube.com/watch?v=VGQT8DVxAGo) with [Raphaël Pinson](https://twitter.com/raphink) and [Paul Arah](https://twitter.com/arahpaul)
+- Episode #133: [IPsets](https://www.youtube.com/watch?v=pIh4rvtMtTk) with [Duffie Cooley](https://twitter.com/mauilion)
+  - [Show notes](episode/133)
+- Episode #132: [Pushing the limits of eBPF](https://www.youtube.com/watch?v=pIh4rvtMtTk) with [Liz Rice](https://twitter.com/lizrice) and [Dan Finneran](https://twitter.com/thebsdbox)
+  - [Show notes](episode/132)
+- Episode #131: [Find xz using Tetragon](https://www.youtube.com/watch?v=h-Lxey7erNQ) with [Duffie Cooley](https://twitter.com/mauilion)
+- Episode #130: [KubeCon EU 2024](https://www.youtube.com/watch?v=pIh4rvtMtTk) with [Liz Rice](https://twitter.com/lizrice) and [Bill Mulligan](https://twitter.com/breakawaybilly)
+  - [Show notes](episode/130)
+- Episode #129: [KubeCon EU 2024](https://www.youtube.com/watch?v=IyIxVd__SDk) with [Liz Rice](https://twitter.com/lizrice) and [Bill Mulligan](https://twitter.com/breakawaybilly)
   - [Show notes](episode/129)
 - Episode #128: [Deploying cilium with Pulumi!](https://youtu.be/1oF_bfLk8sE) with [Duffie Cooley](https://twitter.com/mauilion) and [Kat Morgan](https://twitter.com/usrbinkat)
   - [Show notes](episode/128)
