@@ -1,6 +1,6 @@
-Episode 130 - Eunomia BPF
+# Episode 130 - Eunomia BPF
 
-{%youtube pIh4rvtMtTk %}
+[![Episode 130 - Eunomia BPF](https://img.youtube.com/vi/pIh4rvtMtTk/0.jpg)](https://www.youtube.com/watch?v=pIh4rvtMtTk "Episode 130 - Eunomia BPF")
 
 Liz Rice & Yusheng Zheng
 
@@ -11,7 +11,7 @@ Liz Rice & Yusheng Zheng
 * [Marino Wijay KubeCon recap](https://www.youtube.com/watch?v=QEa7cS_h88Y)
 
 
-## eBPF news 
+## eBPF news
 
 * eBPF series on [mostlynerdless.de](https://mostlynerdless.de/)
 * [Reverse engineering eBPF Bytecode](https://engineering.mercari.com/en/blog/entry/20240228-an-introduction-to-reverse-engineering-for-ebpf-bytecode)

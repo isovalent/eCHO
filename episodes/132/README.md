@@ -1,6 +1,7 @@
 # Episode 132 - Pushing the limits of eBPF 🐝
 
-![](https://www.youtube.com/watch?v=BrH087OK8hU)
+[![Episode 132 - Pushing the limits of eBPF](https://img.youtube.com/vi/BrH087OK8hU/0.jpg)](https://www.youtube.com/watch?v=BrH087OK8hU "Episode 132 - Pushing the limits of eBPF")
+
 
 Liz Rice & Dan Finneran
 

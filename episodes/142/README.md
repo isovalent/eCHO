@@ -1,6 +1,6 @@
 # Episode 142 - Seznam x Cilium Live Case Study
 
-![](https://www.youtube.com/watch?v=zPfVH6BNups)
+[![Episode 142 - Seznam x Cilium Live Case Study](https://img.youtube.com/vi/zPfVH6BNups/0.jpg)](https://www.youtube.com/watch?v=zPfVH6BNups "Episode 142 - Seznam x Cilium Live Case Study")
 
 ## Headlines
 

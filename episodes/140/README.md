@@ -1,6 +1,6 @@
 # Episode 140 - Cilium 1.16 and netkit devices
 
-![](https://www.youtube.com/watch?v=hldsOlLCO_Y)
+[![Episode 140 - Cilium 1.16 and netkit devices](https://img.youtube.com/vi/hldsOlLCO_Y/0.jpg)](https://www.youtube.com/watch?v=hldsOlLCO_Y "Episode 140 - Cilium 1.16 and netkit devices")
 
 ## Headlines
 

@@ -1,6 +1,6 @@
 # Episode 133 - IPsets or ciliumcidrsets
 
-![](https://www.youtube.com/watch?v=o9r7evuZd3c)
+[![Episode 133 - IPsets or ciliumcidrsets](https://img.youtube.com/vi/o9r7evuZd3c/0.jpg)](https://www.youtube.com/watch?v=o9r7evuZd3c "Episode 133 - IPsets or ciliumcidrsets")
 
 Duffie Cooley @mauilion
 

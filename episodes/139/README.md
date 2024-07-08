@@ -1,6 +1,8 @@
-# Episode 139: Cilium Multi Network and Kubevirt.
+# Episode 139: Cilium Multi Network and Kubevirt
 
 ![](https://www.youtube.com/watch?v=H6Sbpbr8pKk)
+
+[![Episode 139: Cilium Multi Network and Kubevirt](https://img.youtube.com/vi/H6Sbpbr8pKk/0.jpg)](https://www.youtube.com/watch?v=hldsOH6Sbpbr8pKklLCO_Y "Episode 139: Cilium Multi Network and Kubevirt")
 
 Duffie Cooley @mauilion
 Kat Morgan @usrbinkat

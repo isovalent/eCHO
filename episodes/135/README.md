@@ -1,6 +1,7 @@
-# Episode 135 - kcd new york and other upcoming events
+# Episode 135 - KCD New York and other upcoming events
 
-![](https://www.youtube.com/watch?v=rCkXFd_FB70)
+[![Episode 135 - KCD New York and other upcoming events](https://img.youtube.com/vi/rCkXFd_FB70/0.jpg)](https://www.youtube.com/watch?v=rCkXFd_FB70 "Episode 135 - KCD New York and other upcoming events")
+
 
 Duffie Cooley @mauilion
 

@@ -3,6 +3,9 @@
 
 ![](https://www.youtube.com/watch?v=cy1t5fBBt7E)
 
+[![Episode 136 -  How Does eBPF Actually Work?](https://img.youtube.com/vi/cy1t5fBBt7E/0.jpg)](https://www.youtube.com/watch?v=cy1t5fBBt7E "Episode 136 -  How Does eBPF Actually Work?")
+
+
 Dan Finneran
 James Laverack
 
