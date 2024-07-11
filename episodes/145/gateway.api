@@ -1,0 +1,56 @@
+apiVersion: gateway.networking.k8s.io/v1beta1
+kind: Gateway
+metadata:
+  name: example
+  namespace: common
+spec:
+  gatewayClassName: cilium
+  addresses:
+    - value: "10.0.1.250"
+  listeners:
+    # HTTP Listener for example.link
+    - name: http-link
+      port: 80
+      protocol: HTTP
+      hostname: "*.example.link"
+      allowedRoutes:
+        namespaces:
+          from: All
+
+    # HTTPS Listener for example.link
+    - name: https-link
+      port: 443
+      protocol: HTTPS
+      hostname: "*.example.link"
+      tls:
+        mode: Terminate
+        certificateRefs:
+        - kind: Secret
+          name: wildcard-example-link
+      allowedRoutes:
+        namespaces:
+          from: All
+
+    # HTTP Listener for example.io
+    - name: http-io
+      port: 80
+      protocol: HTTP
+      hostname: "*.example.io"
+      allowedRoutes:
+        namespaces:
+          from: All
+
+    # HTTPS Listener for example.io
+    - name: https-io
+      port: 443
+      protocol: HTTPS
+      hostname: "*.example.io"
+      tls:
+        mode: Terminate
+        certificateRefs:
+        - kind: Secret
+          name: wildcard-example-io
+      allowedRoutes:
+        namespaces:
+          from: All
+
