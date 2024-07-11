@@ -1,0 +1,23 @@
+apiVersion: "cilium.io/v2alpha1"
+kind: CiliumLoadBalancerIPPool
+metadata:
+  name: example-ip-pool
+  namespace: kube-system
+spec:
+  cidrs:
+  - cidr: "10.0.1.250/29"
+  serviceSelector:
+
+---
+apiVersion: "cilium.io/v2alpha1"
+kind: CiliumL2AnnouncementPolicy
+metadata:
+  name: example-l2advertisement-policy
+  namespace: kube-system
+spec:
+  serviceSelector:
+  interfaces:
+    - ^enx+ # host interface regex
+  externalIPs: true
+  loadBalancerIPs: true
+
