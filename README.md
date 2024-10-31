@@ -12,16 +12,49 @@ We also provide **[eCHO news](https://cilium.io/newsletter/)** as a bi-weekly co
 
 [**View Episode Calendar**](https://calendar.google.com/calendar/embed?src=c_r0u072069ks1htjgkn8j4a9dj0%40group.calendar.google.com&ctz=Europe%2FLondon) | [**Add Google Calendar**](https://calendar.google.com/calendar/u/0?cid=Y19yMHUwNzIwNjlrczFodGpna244ajRhOWRqMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) | [**Subscribe on YouTube**](https://youtube.com/playlist?list=PLDg_GiBbAx-mY3VFLPbLHcxo6wUjejAOC)
 
-Episode #144: API Gateways on Cilium
-  - 10 am ET, 4 pm CEST, 2 pm UK
-  - [Convert to your timezone / get calendar link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=eHO+-+eBPF+%26+Cilium+Office+Hours&iso=20240712T14&p1=136&ah=1)
+Episode #159: [KCD UK Wrap Up + KubeCon Schedule Walkthrough](https://www.youtube.com/watch?v=QdjfWy7VzFk)
+
+- 11 am ET, 7 pm CEST, 6 pm UK
+- [Convert to your timezone / get calendar link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=eCHO+eBPF+&Cilium+Office+Hours&iso=20241101T18&p1=136&ah=1)
 
 ## Suggest a topic
 
 Please [open an issue](https://github.com/isovalent/eCHO/issues/new) if you have an idea for a topic we should cover or a guest we should invite.
 
 ## Previous episodes
+
+- Episode #158: [Complete view into system performance with xcapture-ebpf](https://www.youtube.com/watch?DFYLkYwgaGE) with  with [Liz Rice](https://twitter.com/lizrice) and Tanel Poder
+  - [Show note](episode/158)
+- Episode #157: [Test Drive the KubeVirt and Cilium lab](https://www.youtube.com/watch?cdAAoYSu-ao) with  with [Nico Vibert](https://twitter.com/nicovibert) and [Raphael Pinson](https://twitter.com/raphink)
+  - [Show note](episode/157)
+- Episode #156: [Exploring Hosted Control Planes With Hypershift](https://www.youtube.com/watch?v=00fw4mPwUNo) with [Duffie Cooley](https://twitter.com/mauilion)
+  - [Show note](episode/156)
+- Episode #155: [Demystifying the CNI by Writing One From Scratch](https://www.youtube.com/watch?v=LYCfin9tPkU) with [Paul Arah](https://twitter.com/arahpaul) and Filip Nikolic
+  - [Show note](episode/155)
+- Episode #154: [Exploring Tetragon's Kubernetes Identity-aware policies](https://www.youtube.com/watch?v=3sRJk7CgMyU) with [Paul Arah](https://twitter.com/arahpaul)
+  - [Show note](episode/154)
+- Episode #153: [eBPF Summit 2024 CTF Walkthrough](https://www.youtube.com/watch?v=lqIBKiTI62Q) with [Dan Finneran](https://twitter.com/thebsdbox)
+  - [Show note](episode/153)
+- Episode #152: [Exploring kcli](https://www.youtube.com/watch?v=Mt5YyO0pRZ8) with [Duffie Cooley](https://twitter.com/mauilion)
+  - [Show note](episode/152)
+- Episode #151: [Bring Your Own CNI with Amazon EKS and Cilium](https://www.youtube.com/watch?v=DnzwxDxgkvk) with [Nico Vibert](https://twitter.com/nicovibert) and Amit Gupta
+  - [Show note](episode/151)
+- Episode #150: [Packet Drop Events in Cilium 1.16](https://www.youtube.com/watch?v=Zw14SKwKIZQ) with [Duffie Cooley](https://twitter.com/mauilion)
+  - [Show note](episode/150)
+- Episode #149: [Three things You Might Not Know About Tetragon](https://www.youtube.com/watch?v=e4aLq5xCoJc) with [Liz Rice](https://twitter.com/lizrice) and Kevin Sheldrake
+  - [Show note](episode/149)
+- Episode #148: [Exploring Cilium With Geneve and DSR](https://www.youtube.com/watch?v=e4aLq5xCoJc) with [Duffie Cooley](https://twitter.com/mauilion)
+  - [Show note](episode/148)
+- Episode #147: [Cilium 1.16 Release (EU episode)](https://www.youtube.com/watch?v=1o4RgnMKTxM) with Dean Lewis & Christine Kim
+  - [Show note](episode/147)
+- Episode #146: [Cilium 1.16 Release](https://www.youtube.com/watch?v=Lm83MSsh9kw) with [Duffie Cooley](https://twitter.com/mauilion)
+  - [Show note](episode/146)
+- Episode #145: [Implementing Zero Trust Security with Cilium at WS02](https://www.youtube.com/watch?v=4_uP7r9My7g) with [Shedrack Akintayo](https://twitter.com/coder_blvck) and Lakmal Warusawithana
+  - [Show note](episode/145)
+- Episode #144: [API Gateways on Cilium](https://www.youtube.com/watch?v=po-oE_U7AXM) with [Dan Finneran](https://twitter.com/thebsdbox) and [Marino Wijay](https://twitter.com/virtualized6ix)
+  - [Show note](episode/144)
 - Episode #143: [Sailing The Seas With Tetragon](https://www.youtube.com/watch?v=2ZlaVl8ZBnM) with [Duffie Cooley](https://twitter.com/mauilion)
+  - [Show note](episode/143)
 - Episode #142: [Seznam x Cilium Live Case Study](https://www.youtube.com/watch?v=zPfVH6BNups) with [Shedrack Akintayo](https://twitter.com/coder_blvck) and Ondrej Blazek
   - [Show notes](episode/142)
 - Episode #141: [First look at Cilium's Gateway API for Service Mesh Implementation](https://www.youtube.com/watch?v=OAftVdKllak) with [Jef Spaleta](https://twitter.com/jspaleta)
