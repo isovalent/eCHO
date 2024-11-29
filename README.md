@@ -23,9 +23,9 @@ Please [open an issue](https://github.com/isovalent/eCHO/issues/new) if you have
 
 ## Previous episodes
 
-- Episode #158: [Complete view into system performance with xcapture-ebpf](https://www.youtube.com/watch?DFYLkYwgaGE) with  with [Liz Rice](https://twitter.com/lizrice) and Tanel Poder
+- Episode #158: [Complete view into system performance with xcapture-ebpf](https://www.youtube.com/watch?v=DFYLkYwgaGE) with  with [Liz Rice](https://twitter.com/lizrice) and Tanel Poder
   - [Show notes](episode/158)
-- Episode #157: [Test Drive the KubeVirt and Cilium lab](https://www.youtube.com/watch?cdAAoYSu-ao) with  with [Nico Vibert](https://twitter.com/nicovibert) and [Raphael Pinson](https://twitter.com/raphink)
+- Episode #157: [Test Drive the KubeVirt and Cilium lab](https://www.youtube.com/watch?v=cdAAoYSu-ao) with  with [Nico Vibert](https://twitter.com/nicovibert) and [Raphael Pinson](https://twitter.com/raphink)
   - [Show notes](episode/157)
 - Episode #156: [Exploring Hosted Control Planes With Hypershift](https://www.youtube.com/watch?v=00fw4mPwUNo) with [Duffie Cooley](https://twitter.com/mauilion)
   - [Show notes](episode/156)
