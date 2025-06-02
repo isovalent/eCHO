@@ -10,7 +10,7 @@ We also provide **[eCHO news](https://cilium.io/newsletter/)** as a bi-weekly co
 
 ## Upcoming episodes
 
-[**Subscribe on YouTube**](https://youtube.com/playlist?list=PLDg_GiBbAx-mY3VFLPbLHcxo6wUjejAOC)
+🔔 [**Subscribe on YouTube**](https://youtube.com/playlist?list=PLDg_GiBbAx-mY3VFLPbLHcxo6wUjejAOC)
 
 eCHO happens live every Friday, alternating between two timeslots:
  - 2pm UK / 11am Eastern / 6am Pacific
