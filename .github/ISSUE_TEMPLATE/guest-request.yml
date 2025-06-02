@@ -1,0 +1,78 @@
+name: Guest Request
+description: Complete this form to request to be a guest on eCHO  
+title: eCHO - [PROJECT NAME]  
+labels: ["guest-request", "pending"]  
+assignees: ["lizrice", "thebsdbox", "paularah"]
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## eCHO Guest Invite Form
+        #### :bee: Please fill out the following information to be featured on eCHO. The stream occurs weekly on Fridays [eBPF & Cilium Community YouTube Channel](https://www.youtube.com/watch?v=dMyb54xUSL8). :bee:
+
+  - type: input
+    id: name
+    attributes:
+      label: Name
+      description: Your name
+      placeholder: "Jane Doe"
+
+  - type: input
+    id: github_handle
+    attributes:
+      label: GitHub Handle
+      description: Your GitHub handle
+      placeholder: "@janedoe"
+
+  - type: textarea
+    id: about_you
+    attributes:
+      label: Tell us about yourself
+      description: Please share a bit about yourself and your background
+      placeholder: "I'm a developer who..."
+
+  - type: input
+    id: project_name_1
+    attributes:
+      label: Project Name
+      description: The name of the project you'd like to showcase and chat about
+      placeholder: "Awesome eBPF Project"
+
+  - type: input
+    id: project_repo_1
+    attributes:
+      label: Project Repo Link
+      description: The github repository of your project
+      placeholder: "github.com/repo-url"
+
+  - type: dropdown
+    id: dates_1
+    attributes:
+      label: Time Zone Preference
+      description: Which time zone works best for you for the live eCHO stream?
+      multiple: false
+      options:
+        - 2pm UK / 11am Eastern / 6am Pacific
+        - 7pm UK / 4pm Eastern / 11am Pacific
+
+  - type: input
+    id: social_bluesky
+    attributes:
+      label: Bluesky URL
+      description: Your Bluesky profile
+      placeholder: "@janedoe"
+
+  - type: input
+    id: social_linkedin
+    attributes:
+      label: LinkedIn URL
+      description: Your LinkedIn profile
+      placeholder: "linkedin.com/in/your-profile"
+
+  - type: textarea
+    id: more_info
+    attributes:
+      label: Additional Information
+      description: Please share any additional details and links you'd like us to know about your project
+      placeholder: "I'd like to talk about..."
