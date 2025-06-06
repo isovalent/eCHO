@@ -18,7 +18,7 @@ eCHO happens live every Friday, alternating between two timeslots:
 
 ## Suggest a topic
 
-Please [open an issue](https://github.com/isovalent/eCHO/issues/new) if you have an idea for a topic we should cover or a guest we should invite.
+Please [open an issue](https://github.com/isovalent/eCHO/issues/new/choose) if you have an idea for a topic we should cover or a guest we should invite.
 
 ## Previous episodes
 
