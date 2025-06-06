@@ -1,0 +1,36 @@
+name: "Episode Idea"
+description: Propose a topic, a guest or use-case for a future eCHO livestream.
+title: [Episode Idea] <concise title here>"
+labels: ["episode-idea", "pending"]
+assignees: ["lizrice", "thebsdbox", "paularah"]
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## eCHO Episode Idea 💡
+        #### :bee: Thank you for your contribution! Please provide as much detail as possible so we can evaluate and schedule your idea for a future eCHO livestream. :bee:
+
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: Outline the topic, the guest we should invite, the feature you would like to see demoed, any useful links. Bullet points welcome.
+      placeholder: |
+        * Topic: How ClusterMesh routes service traffic across regions
+        * Guest(s): @username, @another-guest
+        * Demo: Fail-over between AWS and GCP clusters
+        * Links: docs.example.com
+      render: markdown
+
+  - type: dropdown
+    id: theme
+    attributes:
+      label: Theme
+      description: Choose the closest theme; we may adjust later.
+      multiple: true
+      options:
+        - Cilium
+        - eBPF
+        - Tetragon
+        - Other / Mixed
