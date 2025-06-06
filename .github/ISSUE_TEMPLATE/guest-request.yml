@@ -1,14 +1,14 @@
-name: Guest Request
-description: Complete this form to request to be a guest on eCHO  
-title: eCHO - [PROJECT NAME]  
-labels: ["guest-request", "pending"]  
+name: "Guest Request"
+description: Complete this form to request to be a guest on eCHO livestream.
+title: [Guest Request] <your project name>
+labels: ["guest-request", "pending"]
 assignees: ["lizrice", "thebsdbox", "paularah"]
 
 body:
   - type: markdown
     attributes:
       value: |
-        ## eCHO Guest Invite Form
+        ## eCHO Guest Invite Form 🎤
         #### :bee: Please fill out the following information to be featured on eCHO. The stream occurs weekly on Fridays [eBPF & Cilium Community YouTube Channel](https://www.youtube.com/watch?v=dMyb54xUSL8). :bee:
 
   - type: input
@@ -76,3 +76,16 @@ body:
       label: Additional Information
       description: Please share any additional details and links you'd like us to know about your project
       placeholder: "I'd like to talk about..."
+
+  - type: dropdown
+    id: theme
+    attributes:
+      label: Theme
+      description: Choose the closest theme; we may adjust later.
+      multiple: true
+      options:
+        - Cilium
+        - eBPF
+        - Tetragon
+        - Other / Mixed
+
