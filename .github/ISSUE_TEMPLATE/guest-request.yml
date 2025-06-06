@@ -1,6 +1,6 @@
 name: "Guest Request"
 description: Complete this form to request to be a guest on eCHO livestream.
-title: [Guest Request] <your project name>
+title: "[Guest Request] <your project name>"
 labels: ["guest-request", "pending"]
 assignees: ["lizrice", "thebsdbox", "paularah"]
 
