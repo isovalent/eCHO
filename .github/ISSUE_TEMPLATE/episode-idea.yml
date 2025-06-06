@@ -1,6 +1,6 @@
 name: "Episode Idea"
 description: Propose a topic, a guest or use-case for a future eCHO livestream.
-title: [Episode Idea] <concise title here>"
+title: "[Episode Idea] <concise title here>"
 labels: ["episode-idea", "pending"]
 assignees: ["lizrice", "thebsdbox", "paularah"]
 
